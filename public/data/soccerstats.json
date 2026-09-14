@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-14T07:11:10.815Z",
+  "generadoEn": "2026-09-14T13:47:35.469Z",
   "ligas": {
     "albania": {
       "nombre": "Albania - Abissnet Superiore",
@@ -1671,6 +1671,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
+        "huracan": {
+          "nombreOriginal": "Huracan",
+          "gp": 9,
+          "w": 3,
+          "d": 4,
+          "l": 2,
+          "gf": 8,
+          "ga": 7,
+          "pts": 13,
+          "ppg": null,
+          "wh": 1.44,
+          "dh": null,
+          "lh": 2,
+          "gfh": 3,
+          "gah": 0,
+          "ppgh": 4,
+          "ppga": 2,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 1,
+          "over15": 25,
+          "over25": 0,
+          "over35": 0,
+          "btts": 0,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
+        },
         "tigre": {
           "nombreOriginal": "Tigre",
           "gp": 9,
@@ -1815,35 +1844,6 @@
           "btts": 0,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
-        },
-        "huracan": {
-          "nombreOriginal": "Huracan",
-          "gp": 8,
-          "w": 2,
-          "d": 4,
-          "l": 2,
-          "gf": 6,
-          "ga": 6,
-          "pts": 10,
-          "ppg": null,
-          "wh": 1.25,
-          "dh": null,
-          "lh": 1,
-          "gfh": 3,
-          "gah": 0,
-          "ppgh": 2,
-          "ppga": 1,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 1,
-          "over15": 25,
-          "over25": 0,
-          "over35": 0,
-          "btts": 0,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 1
         },
         "driestra": {
           "nombreOriginal": "D. Riestra",
@@ -2052,15 +2052,15 @@
         },
         "racingclub": {
           "nombreOriginal": "Racing Club",
-          "gp": 8,
+          "gp": 9,
           "w": 1,
           "d": 2,
-          "l": 5,
-          "gf": 7,
-          "ga": 13,
+          "l": 6,
+          "gf": 8,
+          "ga": 15,
           "pts": 5,
           "ppg": null,
-          "wh": 0.63,
+          "wh": 0.56,
           "dh": null,
           "lh": 1,
           "gfh": 1,
@@ -2072,20 +2072,15 @@
           "la": null,
           "gfa": null,
           "gaa": 0,
-          "over15": 67,
+          "over15": 50,
           "over25": 0,
           "over35": 0,
-          "btts": 67,
+          "btts": 50,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         }
       },
       "partidos": [
-        {
-          "fechaISO": "2026-09-14T01:30:00.000Z",
-          "local": "Huracan",
-          "visita": "Racing Club"
-        },
         {
           "fechaISO": "2026-09-14T23:00:00.000Z",
           "local": "Banfield",
@@ -6187,6 +6182,10 @@
           "la": null,
           "gfa": null,
           "gaa": 6,
+          "over15": 56,
+          "over25": 22,
+          "over35": 0,
+          "btts": 22,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 5
         },
@@ -6212,6 +6211,10 @@
           "la": null,
           "gfa": null,
           "gaa": 7,
+          "over15": 44,
+          "over25": 33,
+          "over35": 11,
+          "btts": 33,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 7
         },
@@ -6237,6 +6240,10 @@
           "la": null,
           "gfa": null,
           "gaa": 6,
+          "over15": 56,
+          "over25": 33,
+          "over35": 22,
+          "btts": 22,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 5
         },
@@ -6262,6 +6269,10 @@
           "la": null,
           "gfa": null,
           "gaa": 5,
+          "over15": 56,
+          "over25": 33,
+          "over35": 11,
+          "btts": 22,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 2
         },
@@ -6287,6 +6298,10 @@
           "la": null,
           "gfa": null,
           "gaa": 4,
+          "over15": 56,
+          "over25": 33,
+          "over35": 11,
+          "btts": 33,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 3
         },
@@ -6312,6 +6327,10 @@
           "la": null,
           "gfa": null,
           "gaa": 3,
+          "over15": 67,
+          "over25": 33,
+          "over35": 0,
+          "btts": 22,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 1
         },
@@ -6337,6 +6356,10 @@
           "la": null,
           "gfa": null,
           "gaa": 2,
+          "over15": 78,
+          "over25": 22,
+          "over35": 11,
+          "btts": 33,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
@@ -6362,6 +6385,10 @@
           "la": null,
           "gfa": null,
           "gaa": 2,
+          "over15": 33,
+          "over25": 11,
+          "over35": 0,
+          "btts": 22,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         },
@@ -6387,6 +6414,10 @@
           "la": null,
           "gfa": null,
           "gaa": 0,
+          "over15": 11,
+          "over25": 11,
+          "over35": 0,
+          "btts": 11,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 0
         },
@@ -6412,6 +6443,10 @@
           "la": null,
           "gfa": null,
           "gaa": 0,
+          "over15": 56,
+          "over25": 33,
+          "over35": 0,
+          "btts": 22,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         }
@@ -16734,6 +16769,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         },
+        "millonarios": {
+          "nombreOriginal": "Millonarios",
+          "gp": 10,
+          "w": 4,
+          "d": 4,
+          "l": 2,
+          "gf": 12,
+          "ga": 8,
+          "pts": 16,
+          "ppg": null,
+          "wh": 1.6,
+          "dh": null,
+          "lh": 1,
+          "gfh": 2,
+          "gah": 1,
+          "ppgh": 3,
+          "ppga": 2,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 3,
+          "over15": 17,
+          "over25": 0,
+          "over35": 0,
+          "btts": 17,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
+        },
         "deportestolima": {
           "nombreOriginal": "Deportes Tolima",
           "gp": 8,
@@ -16878,35 +16942,6 @@
           "btts": 0,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
-        },
-        "millonarios": {
-          "nombreOriginal": "Millonarios",
-          "gp": 9,
-          "w": 3,
-          "d": 4,
-          "l": 2,
-          "gf": 10,
-          "ga": 7,
-          "pts": 13,
-          "ppg": null,
-          "wh": 1.44,
-          "dh": null,
-          "lh": 1,
-          "gfh": 2,
-          "gah": 1,
-          "ppgh": 3,
-          "ppga": 2,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 2,
-          "over15": 20,
-          "over25": 0,
-          "over35": 0,
-          "btts": 20,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 1
         },
         "deportivocali": {
           "nombreOriginal": "Deportivo Cali",
@@ -17055,21 +17090,21 @@
         },
         "cucuta": {
           "nombreOriginal": "Cucuta",
-          "gp": 8,
+          "gp": 9,
           "w": 2,
           "d": 3,
-          "l": 3,
-          "gf": 8,
-          "ga": 13,
+          "l": 4,
+          "gf": 9,
+          "ga": 15,
           "pts": 9,
           "ppg": null,
-          "wh": 1.13,
+          "wh": 1,
           "dh": null,
           "lh": 1,
           "gfh": 2,
-          "gah": 0,
-          "ppgh": 4,
-          "ppga": 3,
+          "gah": 1,
+          "ppgh": 5,
+          "ppga": 5,
           "wa": null,
           "da": null,
           "la": null,
@@ -17290,11 +17325,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-14T02:15:00.000Z",
-          "local": "Cucuta",
-          "visita": "Millonarios"
-        },
-        {
           "fechaISO": "2026-09-15T02:00:00.000Z",
           "local": "America de Cali",
           "visita": "Deportivo Pasto"
@@ -17308,6 +17338,26 @@
           "fechaISO": "2026-09-17T02:20:00.000Z",
           "local": "La Equidad",
           "visita": "A. Nacional"
+        },
+        {
+          "fechaISO": "2026-09-19T02:10:00.000Z",
+          "local": "I. Medelin",
+          "visita": "Jaguares de C."
+        },
+        {
+          "fechaISO": "2026-09-19T20:00:00.000Z",
+          "local": "Millonarios",
+          "visita": "Boyaca Chico"
+        },
+        {
+          "fechaISO": "2026-09-19T22:05:00.000Z",
+          "local": "A. Petrolera",
+          "visita": "Santa Fe"
+        },
+        {
+          "fechaISO": "2026-09-20T00:10:00.000Z",
+          "local": "Deportivo Cali",
+          "visita": "Cucuta"
         }
       ]
     },
@@ -72028,15 +72078,15 @@
         },
         "hwacheonw": {
           "nombreOriginal": "Hwacheon W",
-          "gp": 23,
+          "gp": 24,
           "w": 13,
-          "d": 7,
+          "d": 8,
           "l": 3,
           "gf": 32,
           "ga": 11,
-          "pts": 46,
+          "pts": 47,
           "ppg": null,
-          "wh": 2,
+          "wh": 1.96,
           "dh": null,
           "lh": 8,
           "gfh": 3,
@@ -72048,12 +72098,12 @@
           "la": null,
           "gfa": null,
           "gaa": 5,
-          "over15": 50,
-          "over25": 10,
-          "over35": 10,
-          "btts": 30,
+          "over15": 45,
+          "over25": 9,
+          "over35": 9,
+          "btts": 27,
           "rachaTipo": "W",
-          "rachaLongitud": 46,
+          "rachaLongitud": 47,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 4
         },
@@ -72152,18 +72202,18 @@
         },
         "seoulw": {
           "nombreOriginal": "Seoul W",
-          "gp": 23,
+          "gp": 24,
           "w": 9,
-          "d": 2,
+          "d": 3,
           "l": 12,
           "gf": 22,
           "ga": 33,
-          "pts": 29,
+          "pts": 30,
           "ppg": null,
-          "wh": 1.26,
+          "wh": 1.25,
           "dh": null,
           "lh": 5,
-          "gfh": 1,
+          "gfh": 2,
           "gah": 5,
           "ppgh": 11,
           "ppga": 18,
@@ -72177,7 +72227,7 @@
           "over35": 8,
           "btts": 42,
           "rachaTipo": "W",
-          "rachaLongitud": 29,
+          "rachaLongitud": 30,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
@@ -72246,9 +72296,44 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-14T11:00:00.000Z",
-          "local": "Seoul W",
+          "fechaISO": "2026-10-02T11:00:00.000Z",
+          "local": "Incheon W",
           "visita": "Hwacheon W"
+        },
+        {
+          "fechaISO": "2026-10-02T11:00:00.000Z",
+          "local": "Sejong W",
+          "visita": "Suwon FMC W"
+        },
+        {
+          "fechaISO": "2026-10-03T06:00:00.000Z",
+          "local": "Gangjin Swans W",
+          "visita": "Seoul W"
+        },
+        {
+          "fechaISO": "2026-10-03T06:00:00.000Z",
+          "local": "Gyeongju W",
+          "visita": "Mungyeong W"
+        },
+        {
+          "fechaISO": "2026-10-07T11:00:00.000Z",
+          "local": "Gangjin Swans W",
+          "visita": "Suwon FMC W"
+        },
+        {
+          "fechaISO": "2026-10-07T11:00:00.000Z",
+          "local": "Gyeongju W",
+          "visita": "Hwacheon W"
+        },
+        {
+          "fechaISO": "2026-10-07T11:00:00.000Z",
+          "local": "Sejong W",
+          "visita": "Incheon W"
+        },
+        {
+          "fechaISO": "2026-10-07T11:00:00.000Z",
+          "local": "Seoul W",
+          "visita": "Mungyeong W"
         }
       ]
     },

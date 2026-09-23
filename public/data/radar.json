@@ -1,71 +1,71 @@
 {
-  "generadoEn": "2026-09-22T13:18:05.180Z",
-  "fechaObjetivo": "2026-09-23",
-  "fuenteDatos": "2026-09-22T13:18:03.654Z",
-  "totalPartidos": 8,
-  "destacados": 3,
+  "generadoEn": "2026-09-23T13:39:56.977Z",
+  "fechaObjetivo": "2026-09-24",
+  "fuenteDatos": "2026-09-23T13:39:55.094Z",
+  "totalPartidos": 5,
+  "destacados": 2,
   "partidos": [
     {
-      "liga": "Canada - Premier League",
-      "region": "Canada",
-      "ligaSlug": "canada",
-      "equipoLocal": "Vancouver FC",
-      "equipoVisita": "York Utd",
-      "horaInicio": "2026-09-24T03:00:00.000Z",
-      "equipoFavorito": "York Utd",
+      "liga": "Colombia - Primera A - Clausura",
+      "region": "Colombia",
+      "ligaSlug": "colombia2",
+      "equipoLocal": "A. Nacional",
+      "equipoVisita": "Millonarios",
+      "horaInicio": "2026-09-25T01:30:00.000Z",
+      "equipoFavorito": "A. Nacional",
       "probabilidades": {
-        "ganadorLocal": 18.4,
+        "ganadorLocal": 52.9,
         "empate": 0,
-        "ganadorVisita": 81.6,
-        "ganadorSimpleLocal": 39.1,
-        "ganadorSimpleVisita": 23.8,
-        "btts": 17.5,
-        "over15": 30.5,
-        "over25": 9
+        "ganadorVisita": 47.1,
+        "ganadorSimpleLocal": 75,
+        "ganadorSimpleVisita": 45.5,
+        "btts": 25,
+        "over15": 42,
+        "over25": 16.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "local": 17,
-        "visita": 23
+        "local": 4,
+        "visita": 2
       },
       "cumple": {
-        "ganador60": true,
-        "ganadorSimple60": false,
+        "ganador60": false,
+        "ganadorSimple60": true,
         "over15_60": false,
         "over25_60": false,
         "btts60": false,
         "rachaGanadora": false
       },
-      "destacado": true
+      "destacado": false
     },
     {
-      "liga": "Colombia - Primera A - Clausura",
-      "region": "Colombia",
-      "ligaSlug": "colombia2",
-      "equipoLocal": "America de Cali",
-      "equipoVisita": "R. Aguilas",
-      "horaInicio": "2026-09-24T01:30:00.000Z",
-      "equipoFavorito": "R. Aguilas",
+      "liga": "France - National",
+      "region": "France",
+      "ligaSlug": "france3",
+      "equipoLocal": "Caen",
+      "equipoVisita": "Rouen",
+      "horaInicio": "2026-09-24T19:45:00.000Z",
+      "equipoFavorito": "Rouen",
       "probabilidades": {
-        "ganadorLocal": 34.4,
+        "ganadorLocal": 36.3,
         "empate": 0,
-        "ganadorVisita": 65.6,
-        "ganadorSimpleLocal": 60,
-        "ganadorSimpleVisita": 25,
-        "btts": 53.5,
-        "over15": 53.5,
-        "over25": 10
+        "ganadorVisita": 63.7,
+        "ganadorSimpleLocal": 57.1,
+        "ganadorSimpleVisita": 71.4,
+        "btts": 16.5,
+        "over15": 33,
+        "over25": 16.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "local": 15,
-        "visita": 7
+        "local": 7,
+        "visita": 1
       },
       "cumple": {
         "ganador60": false,
@@ -81,27 +81,27 @@
       "liga": "Guatemala - Liga Nacional - Apertura",
       "region": "Guatemala",
       "ligaSlug": "guatemala",
-      "equipoLocal": "Xelaju",
-      "equipoVisita": "Antigua GFC",
-      "horaInicio": "2026-09-24T03:00:00.000Z",
-      "equipoFavorito": "Antigua GFC",
+      "equipoLocal": "Municipal",
+      "equipoVisita": "Suchitepequez",
+      "horaInicio": "2026-09-25T03:00:00.000Z",
+      "equipoFavorito": "Suchitepequez",
       "probabilidades": {
-        "ganadorLocal": 39.9,
+        "ganadorLocal": 42.5,
         "empate": 0,
-        "ganadorVisita": 60.1,
-        "ganadorSimpleLocal": 33.3,
-        "ganadorSimpleVisita": 87.5,
-        "btts": 25,
-        "over15": 33,
-        "over25": 33
+        "ganadorVisita": 57.5,
+        "ganadorSimpleLocal": 66.7,
+        "ganadorSimpleVisita": 10,
+        "btts": 12.5,
+        "over15": 22.5,
+        "over25": 22.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "local": 7,
-        "visita": 4
+        "local": 8,
+        "visita": 7
       },
       "cumple": {
         "ganador60": false,
@@ -114,58 +114,22 @@
       "destacado": false
     },
     {
-      "liga": "North Macedonia - First League",
-      "region": "North Macedonia",
-      "ligaSlug": "northmacedonia",
-      "equipoLocal": "Bregalnica Stip",
-      "equipoVisita": "FK Skopje",
-      "horaInicio": "2026-09-23T17:00:00.000Z",
-      "equipoFavorito": "FK Skopje",
+      "liga": "Mexico - Liga Expansion - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico3",
+      "equipoLocal": "Alebrijes",
+      "equipoVisita": "CA La Paz",
+      "horaInicio": "2026-09-25T02:00:00.000Z",
+      "equipoFavorito": "CA La Paz",
       "probabilidades": {
-        "ganadorLocal": 33.3,
+        "ganadorLocal": 35.7,
         "empate": 0,
-        "ganadorVisita": 66.7,
-        "ganadorSimpleLocal": 28.6,
-        "ganadorSimpleVisita": 0,
-        "btts": 0,
-        "over15": 0,
-        "over25": 0
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "local": 7,
-        "visita": 4
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Peru - Liga 1 - Clausura",
-      "region": "Peru",
-      "ligaSlug": "peru2",
-      "equipoLocal": "ADT",
-      "equipoVisita": "Cienciano",
-      "horaInicio": "2026-09-23T21:00:00.000Z",
-      "equipoFavorito": "ADT",
-      "probabilidades": {
-        "ganadorLocal": 100,
-        "empate": 0,
-        "ganadorVisita": 0,
-        "ganadorSimpleLocal": 0,
-        "ganadorSimpleVisita": 25,
-        "btts": 25,
-        "over15": 35,
-        "over25": 25
+        "ganadorVisita": 64.3,
+        "ganadorSimpleLocal": 33.3,
+        "ganadorSimpleVisita": 55.6,
+        "btts": 57.5,
+        "over15": 100,
+        "over25": 90
       },
       "rachas": {
         "local": "-",
@@ -173,115 +137,43 @@
       },
       "ppg": {
         "local": 3,
-        "visita": 5
+        "visita": 3
       },
       "cumple": {
-        "ganador60": true,
+        "ganador60": false,
         "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
+        "over15_60": true,
+        "over25_60": true,
         "btts60": false,
         "rachaGanadora": false
       },
       "destacado": true
     },
     {
-      "liga": "Spain - Primera RFEF - Gr. 2",
-      "region": "Spain",
-      "ligaSlug": "spain4",
-      "equipoLocal": "Sant Andreu",
-      "equipoVisita": "Real Madrid B",
-      "horaInicio": "2026-09-23T20:00:00.000Z",
-      "equipoFavorito": "Sant Andreu",
+      "liga": "Mexico - Liga Expansion - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico3",
+      "equipoLocal": "M. Zacatecas",
+      "equipoVisita": "Piratas",
+      "horaInicio": "2026-09-25T02:00:00.000Z",
+      "equipoFavorito": "Piratas",
       "probabilidades": {
-        "ganadorLocal": 50,
+        "ganadorLocal": 34.2,
         "empate": 0,
-        "ganadorVisita": 50,
-        "ganadorSimpleLocal": 33.3,
-        "ganadorSimpleVisita": 33.3,
-        "btts": 0,
-        "over15": 0,
-        "over25": 0
+        "ganadorVisita": 65.8,
+        "ganadorSimpleLocal": 44.4,
+        "ganadorSimpleVisita": 44.4,
+        "btts": 45,
+        "over15": 77.5,
+        "over25": 47.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "local": 2,
-        "visita": 0
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "USA - MLS",
-      "region": "USA",
-      "ligaSlug": "usa",
-      "equipoLocal": "Seattle",
-      "equipoVisita": "Real Salt Lake",
-      "horaInicio": "2026-09-24T02:30:00.000Z",
-      "equipoFavorito": "Real Salt Lake",
-      "probabilidades": {
-        "ganadorLocal": 23.2,
-        "empate": 0,
-        "ganadorVisita": 76.8,
-        "ganadorSimpleLocal": 29.2,
-        "ganadorSimpleVisita": 32,
-        "btts": 24,
-        "over15": 32.5,
-        "over25": 4
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "local": 16,
-        "visita": 20
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "USA - USL Championship",
-      "region": "USA",
-      "ligaSlug": "usa2",
-      "equipoLocal": "Birmingham L.",
-      "equipoVisita": "Brooklyn FC",
-      "horaInicio": "2026-09-23T17:00:00.000Z",
-      "equipoFavorito": "Brooklyn FC",
-      "probabilidades": {
-        "ganadorLocal": 29.3,
-        "empate": 0,
-        "ganadorVisita": 70.7,
-        "ganadorSimpleLocal": 12.5,
-        "ganadorSimpleVisita": 16.7,
-        "btts": 40,
-        "over15": 65.5,
-        "over25": 13
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "local": 16,
-        "visita": 13
+        "local": 13,
+        "visita": 3
       },
       "cumple": {
         "ganador60": false,

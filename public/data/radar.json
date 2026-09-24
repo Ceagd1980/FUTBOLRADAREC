@@ -1,35 +1,107 @@
 {
-  "generadoEn": "2026-09-23T13:39:56.977Z",
-  "fechaObjetivo": "2026-09-24",
-  "fuenteDatos": "2026-09-23T13:39:55.094Z",
-  "totalPartidos": 5,
-  "destacados": 2,
+  "generadoEn": "2026-09-24T13:30:29.221Z",
+  "fechaObjetivo": "2026-09-25",
+  "fuenteDatos": "2026-09-24T13:30:27.195Z",
+  "totalPartidos": 52,
+  "destacados": 22,
   "partidos": [
     {
-      "liga": "Colombia - Primera A - Clausura",
-      "region": "Colombia",
-      "ligaSlug": "colombia2",
-      "equipoLocal": "A. Nacional",
-      "equipoVisita": "Millonarios",
-      "horaInicio": "2026-09-25T01:30:00.000Z",
-      "equipoFavorito": "A. Nacional",
+      "liga": "Brazil - Serie B",
+      "region": "Brazil",
+      "ligaSlug": "brazil2",
+      "equipoLocal": "Novorizontino",
+      "equipoVisita": "Sao Bernardo",
+      "horaInicio": "2026-09-25T23:30:00.000Z",
+      "equipoFavorito": "Sao Bernardo",
       "probabilidades": {
-        "ganadorLocal": 52.9,
+        "ganadorLocal": 17.7,
         "empate": 0,
-        "ganadorVisita": 47.1,
-        "ganadorSimpleLocal": 75,
-        "ganadorSimpleVisita": 45.5,
-        "btts": 25,
-        "over15": 42,
-        "over25": 16.5
+        "ganadorVisita": 82.3,
+        "ganadorSimpleLocal": 48.3,
+        "ganadorSimpleVisita": 37.9,
+        "btts": 24,
+        "over15": 28,
+        "over25": 3.5
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "local": 4,
-        "visita": 2
+        "local": 23,
+        "visita": 17
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Brazil - Serie B",
+      "region": "Brazil",
+      "ligaSlug": "brazil2",
+      "equipoLocal": "Vila Nova",
+      "equipoVisita": "Londrina",
+      "horaInicio": "2026-09-26T00:30:00.000Z",
+      "equipoFavorito": "Londrina",
+      "probabilidades": {
+        "ganadorLocal": 13.8,
+        "empate": 0,
+        "ganadorVisita": 86.2,
+        "ganadorSimpleLocal": 51.7,
+        "ganadorSimpleVisita": 24.1,
+        "btts": 20.5,
+        "over15": 34.5,
+        "over25": 10
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 29,
+        "visita": 18
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Canada - Premier League",
+      "region": "Canada",
+      "ligaSlug": "canada",
+      "equipoLocal": "Cavalry",
+      "equipoVisita": "Supra du Quebec",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "Supra du Quebec",
+      "probabilidades": {
+        "ganadorLocal": 22.1,
+        "empate": 0,
+        "ganadorVisita": 77.9,
+        "ganadorSimpleLocal": 68.2,
+        "ganadorSimpleVisita": 31.8,
+        "btts": 18,
+        "over15": 31.5,
+        "over25": 18
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 24,
+        "visita": 17
       },
       "cumple": {
         "ganador60": false,
@@ -42,20 +114,200 @@
       "destacado": false
     },
     {
-      "liga": "France - National",
-      "region": "France",
-      "ligaSlug": "france3",
-      "equipoLocal": "Caen",
-      "equipoVisita": "Rouen",
-      "horaInicio": "2026-09-24T19:45:00.000Z",
-      "equipoFavorito": "Rouen",
+      "liga": "Colombia - Primera A - Clausura",
+      "region": "Colombia",
+      "ligaSlug": "colombia2",
+      "equipoLocal": "Boyaca Chico",
+      "equipoVisita": "Deportivo Pasto",
+      "horaInicio": "2026-09-26T00:10:00.000Z",
+      "equipoFavorito": "Deportivo Pasto",
       "probabilidades": {
-        "ganadorLocal": 36.3,
+        "ganadorLocal": 30.8,
         "empate": 0,
-        "ganadorVisita": 63.7,
-        "ganadorSimpleLocal": 57.1,
-        "ganadorSimpleVisita": 71.4,
-        "btts": 16.5,
+        "ganadorVisita": 69.2,
+        "ganadorSimpleLocal": 22.2,
+        "ganadorSimpleVisita": 20,
+        "btts": 30,
+        "over15": 50,
+        "over25": 30
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 5,
+        "visita": 7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Colombia - Primera A - Clausura",
+      "region": "Colombia",
+      "ligaSlug": "colombia2",
+      "equipoLocal": "Once Caldas",
+      "equipoVisita": "A. Bucaramanga",
+      "horaInicio": "2026-09-26T02:15:00.000Z",
+      "equipoFavorito": "A. Bucaramanga",
+      "probabilidades": {
+        "ganadorLocal": 37.5,
+        "empate": 0,
+        "ganadorVisita": 62.5,
+        "ganadorSimpleLocal": 30,
+        "ganadorSimpleVisita": 44.4,
+        "btts": 28.5,
+        "over15": 36.5,
+        "over25": 20
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 7,
+        "visita": 4
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Denmark - 2nd Division",
+      "region": "Denmark",
+      "ligaSlug": "denmark3",
+      "equipoLocal": "Hellerup IK",
+      "equipoVisita": "Roskilde",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Roskilde",
+      "probabilidades": {
+        "ganadorLocal": 30.6,
+        "empate": 0,
+        "ganadorVisita": 69.4,
+        "ganadorSimpleLocal": 25,
+        "ganadorSimpleVisita": 37.5,
+        "btts": 37.5,
+        "over15": 50,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 5,
+        "visita": 4
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Finland - Ykkosliga",
+      "region": "Finland",
+      "ligaSlug": "finland2",
+      "equipoLocal": "KTP",
+      "equipoVisita": "Mikkelin",
+      "horaInicio": "2026-09-25T16:30:00.000Z",
+      "equipoFavorito": "Mikkelin",
+      "probabilidades": {
+        "ganadorLocal": 20.9,
+        "empate": 0,
+        "ganadorVisita": 79.1,
+        "ganadorSimpleLocal": 75,
+        "ganadorSimpleVisita": 33.3,
+        "btts": 21,
+        "over15": 21,
+        "over25": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 25,
+        "visita": 17
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Finland - Ykkosliga",
+      "region": "Finland",
+      "ligaSlug": "finland2",
+      "equipoLocal": "KaPa",
+      "equipoVisita": "Haka",
+      "horaInicio": "2026-09-25T17:00:00.000Z",
+      "equipoFavorito": "Haka",
+      "probabilidades": {
+        "ganadorLocal": 30.6,
+        "empate": 0,
+        "ganadorVisita": 69.4,
+        "ganadorSimpleLocal": 20.8,
+        "ganadorSimpleVisita": 54.2,
+        "btts": 20.5,
+        "over15": 40.5,
+        "over25": 12
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 12,
+        "visita": 15
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Germany - 3. Liga",
+      "region": "Germany",
+      "ligaSlug": "germany3",
+      "equipoLocal": "Havelse",
+      "equipoVisita": "Fortuna Koln",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Fortuna Koln",
+      "probabilidades": {
+        "ganadorLocal": 40.1,
+        "empate": 0,
+        "ganadorVisita": 59.9,
+        "ganadorSimpleLocal": 16.7,
+        "ganadorSimpleVisita": 16.7,
+        "btts": 33,
         "over15": 33,
         "over25": 16.5
       },
@@ -65,11 +317,11 @@
       },
       "ppg": {
         "local": 7,
-        "visita": 1
+        "visita": 3
       },
       "cumple": {
         "ganador60": false,
-        "ganadorSimple60": true,
+        "ganadorSimple60": false,
         "over15_60": false,
         "over25_60": false,
         "btts60": false,
@@ -78,21 +330,21 @@
       "destacado": false
     },
     {
-      "liga": "Guatemala - Liga Nacional - Apertura",
-      "region": "Guatemala",
-      "ligaSlug": "guatemala",
-      "equipoLocal": "Municipal",
-      "equipoVisita": "Suchitepequez",
-      "horaInicio": "2026-09-25T03:00:00.000Z",
-      "equipoFavorito": "Suchitepequez",
+      "liga": "Germany - Regionalliga Nord",
+      "region": "Germany",
+      "ligaSlug": "germany4",
+      "equipoLocal": "Schoningen",
+      "equipoVisita": "Drochtersen.A.",
+      "horaInicio": "2026-09-25T18:30:00.000Z",
+      "equipoFavorito": "Drochtersen.A.",
       "probabilidades": {
-        "ganadorLocal": 42.5,
+        "ganadorLocal": 36.5,
         "empate": 0,
-        "ganadorVisita": 57.5,
-        "ganadorSimpleLocal": 66.7,
-        "ganadorSimpleVisita": 10,
-        "btts": 12.5,
-        "over15": 22.5,
+        "ganadorVisita": 63.5,
+        "ganadorSimpleLocal": 70,
+        "ganadorSimpleVisita": 70,
+        "btts": 0,
+        "over15": 32.5,
         "over25": 22.5
       },
       "rachas": {
@@ -100,7 +352,7 @@
         "visita": "-"
       },
       "ppg": {
-        "local": 8,
+        "local": 9,
         "visita": 7
       },
       "cumple": {
@@ -114,22 +366,346 @@
       "destacado": false
     },
     {
-      "liga": "Mexico - Liga Expansion - Apertura",
-      "region": "Mexico",
-      "ligaSlug": "mexico3",
-      "equipoLocal": "Alebrijes",
-      "equipoVisita": "CA La Paz",
-      "horaInicio": "2026-09-25T02:00:00.000Z",
-      "equipoFavorito": "CA La Paz",
+      "liga": "Germany - Regionalliga Nord",
+      "region": "Germany",
+      "ligaSlug": "germany4",
+      "equipoLocal": "VfB Lubeck",
+      "equipoVisita": "Todesfelde",
+      "horaInicio": "2026-09-25T18:30:00.000Z",
+      "equipoFavorito": "Todesfelde",
       "probabilidades": {
-        "ganadorLocal": 35.7,
+        "ganadorLocal": 44.4,
         "empate": 0,
-        "ganadorVisita": 64.3,
+        "ganadorVisita": 55.6,
+        "ganadorSimpleLocal": 10,
+        "ganadorSimpleVisita": 20,
+        "btts": 30,
+        "over15": 52.5,
+        "over25": 20
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 8,
+        "visita": 13
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Germany - Regionalliga Nordost",
+      "region": "Germany",
+      "ligaSlug": "germany5",
+      "equipoLocal": "BFC Dynamo",
+      "equipoVisita": "Greifswald",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Greifswald",
+      "probabilidades": {
+        "ganadorLocal": 31,
+        "empate": 0,
+        "ganadorVisita": 69,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 50,
+        "btts": 40,
+        "over15": 80,
+        "over25": 30
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 11,
+        "visita": 10
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": true,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Germany - Regionalliga Nordost",
+      "region": "Germany",
+      "ligaSlug": "germany5",
+      "equipoLocal": "Magdeburg B",
+      "equipoVisita": "Altglienicke",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Altglienicke",
+      "probabilidades": {
+        "ganadorLocal": 30.2,
+        "empate": 0,
+        "ganadorVisita": 69.8,
+        "ganadorSimpleLocal": 40,
+        "ganadorSimpleVisita": 50,
+        "btts": 50,
+        "over15": 60,
+        "over25": 50
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 10,
+        "visita": 6
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": true,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Germany - Regionalliga Nordost",
+      "region": "Germany",
+      "ligaSlug": "germany5",
+      "equipoLocal": "Tasmania Berlin",
+      "equipoVisita": "Carl Zeiss Jena",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Tasmania Berlin",
+      "probabilidades": {
+        "ganadorLocal": 100,
+        "empate": 0,
+        "ganadorVisita": 0,
+        "ganadorSimpleLocal": 10,
+        "ganadorSimpleVisita": 50,
+        "btts": 16.5,
+        "over15": 33.5,
+        "over25": 25
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 6,
+        "visita": 6
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Germany - Regionalliga West",
+      "region": "Germany",
+      "ligaSlug": "germany6",
+      "equipoLocal": "Gutersloh",
+      "equipoVisita": "Paderborn B",
+      "horaInicio": "2026-09-25T18:30:00.000Z",
+      "equipoFavorito": "Paderborn B",
+      "probabilidades": {
+        "ganadorLocal": 42.5,
+        "empate": 0,
+        "ganadorVisita": 57.5,
+        "ganadorSimpleLocal": 66.7,
+        "ganadorSimpleVisita": 22.2,
+        "btts": 67.5,
+        "over15": 77.5,
+        "over25": 45
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 12,
+        "visita": 11
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": true,
+        "over25_60": false,
+        "btts60": true,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Germany - Regionalliga Sudwest",
+      "region": "Germany",
+      "ligaSlug": "germany7",
+      "equipoLocal": "Kaiserslaut. B",
+      "equipoVisita": "FSV Frankfurt",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Kaiserslaut. B",
+      "probabilidades": {
+        "ganadorLocal": 50,
+        "empate": 0,
+        "ganadorVisita": 50,
+        "ganadorSimpleLocal": 25,
+        "ganadorSimpleVisita": 37.5,
+        "btts": 16.5,
+        "over15": 29,
+        "over25": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 1,
+        "visita": 4
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Germany - Regionalliga Sudwest",
+      "region": "Germany",
+      "ligaSlug": "germany7",
+      "equipoLocal": "Walldorf",
+      "equipoVisita": "Sandhausen",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Sandhausen",
+      "probabilidades": {
+        "ganadorLocal": 42.9,
+        "empate": 0,
+        "ganadorVisita": 57.1,
+        "ganadorSimpleLocal": 12.5,
+        "ganadorSimpleVisita": 25,
+        "btts": 37.5,
+        "over15": 62.5,
+        "over25": 25
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 7,
+        "visita": 7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": true,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Germany - Regionalliga Bayern",
+      "region": "Germany",
+      "ligaSlug": "germany8",
+      "equipoLocal": "Bayern Munich B",
+      "equipoVisita": "Schwaben A.",
+      "horaInicio": "2026-09-25T17:30:00.000Z",
+      "equipoFavorito": "Bayern Munich B",
+      "probabilidades": {
+        "ganadorLocal": 55,
+        "empate": 0,
+        "ganadorVisita": 45,
         "ganadorSimpleLocal": 33.3,
-        "ganadorSimpleVisita": 55.6,
-        "btts": 57.5,
-        "over15": 100,
-        "over25": 90
+        "ganadorSimpleVisita": 20,
+        "btts": 10,
+        "over15": 42.5,
+        "over25": 20
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 5,
+        "visita": 6
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Germany - Regionalliga Bayern",
+      "region": "Germany",
+      "ligaSlug": "germany8",
+      "equipoLocal": "Eltersdorf",
+      "equipoVisita": "Bayreuth",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Bayreuth",
+      "probabilidades": {
+        "ganadorLocal": 39.9,
+        "empate": 0,
+        "ganadorVisita": 60.1,
+        "ganadorSimpleLocal": 33.3,
+        "ganadorSimpleVisita": 30,
+        "btts": 50,
+        "over15": 50,
+        "over25": 25
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 7,
+        "visita": 11
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Germany - Regionalliga Bayern",
+      "region": "Germany",
+      "ligaSlug": "germany8",
+      "equipoLocal": "Greuther F. B",
+      "equipoVisita": "Nurnberg B",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Nurnberg B",
+      "probabilidades": {
+        "ganadorLocal": 43.8,
+        "empate": 0,
+        "ganadorVisita": 56.2,
+        "ganadorSimpleLocal": 22.2,
+        "ganadorSimpleVisita": 33.3,
+        "btts": 21,
+        "over15": 46,
+        "over25": 8.5
       },
       "rachas": {
         "local": "-",
@@ -137,13 +713,301 @@
       },
       "ppg": {
         "local": 3,
-        "visita": 3
+        "visita": 7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Germany - Regionalliga Bayern",
+      "region": "Germany",
+      "ligaSlug": "germany8",
+      "equipoLocal": "Memmingen",
+      "equipoVisita": "Buchbach",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Memmingen",
+      "probabilidades": {
+        "ganadorLocal": 67.7,
+        "empate": 0,
+        "ganadorVisita": 32.3,
+        "ganadorSimpleLocal": 60,
+        "ganadorSimpleVisita": 77.8,
+        "btts": 10,
+        "over15": 32.5,
+        "over25": 10
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 4,
+        "visita": 4
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Ireland - Premier Division",
+      "region": "Ireland",
+      "ligaSlug": "ireland",
+      "equipoLocal": "Galway Utd",
+      "equipoVisita": "Shelbourne",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Shelbourne",
+      "probabilidades": {
+        "ganadorLocal": 19.2,
+        "empate": 0,
+        "ganadorVisita": 80.8,
+        "ganadorSimpleLocal": 29,
+        "ganadorSimpleVisita": 29,
+        "btts": 29,
+        "over15": 35.5,
+        "over25": 22.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 22,
+        "visita": 27
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Ireland - First Division",
+      "region": "Ireland",
+      "ligaSlug": "ireland2",
+      "equipoLocal": "Cobh Ramblers",
+      "equipoVisita": "Athlone Town",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Athlone Town",
+      "probabilidades": {
+        "ganadorLocal": 19,
+        "empate": 0,
+        "ganadorVisita": 81,
+        "ganadorSimpleLocal": 40.6,
+        "ganadorSimpleVisita": 37.5,
+        "btts": 9.5,
+        "over15": 25,
+        "over25": 15.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 21,
+        "visita": 14
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Ireland - First Division",
+      "region": "Ireland",
+      "ligaSlug": "ireland2",
+      "equipoLocal": "Kerry",
+      "equipoVisita": "Wexford",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Wexford",
+      "probabilidades": {
+        "ganadorLocal": 14.1,
+        "empate": 0,
+        "ganadorVisita": 85.9,
+        "ganadorSimpleLocal": 34.4,
+        "ganadorSimpleVisita": 34.4,
+        "btts": 15.5,
+        "over15": 28.5,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 22,
+        "visita": 22
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Ireland - First Division",
+      "region": "Ireland",
+      "ligaSlug": "ireland2",
+      "equipoLocal": "Treaty Utd",
+      "equipoVisita": "Finn Harps",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Finn Harps",
+      "probabilidades": {
+        "ganadorLocal": 17.1,
+        "empate": 0,
+        "ganadorVisita": 82.9,
+        "ganadorSimpleLocal": 25,
+        "ganadorSimpleVisita": 18.8,
+        "btts": 9.5,
+        "over15": 27.5,
+        "over25": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 17,
+        "visita": 25
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Ireland - First Division",
+      "region": "Ireland",
+      "ligaSlug": "ireland2",
+      "equipoLocal": "UC Dublin",
+      "equipoVisita": "Bray Wanderers",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Bray Wanderers",
+      "probabilidades": {
+        "ganadorLocal": 13.3,
+        "empate": 0,
+        "ganadorVisita": 86.7,
+        "ganadorSimpleLocal": 43.8,
+        "ganadorSimpleVisita": 43.8,
+        "btts": 19,
+        "over15": 41,
+        "over25": 18.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 35,
+        "visita": 17
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Mexico - Liga MX - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico",
+      "equipoLocal": "Atlante",
+      "equipoVisita": "Monterrey",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "Atlante",
+      "probabilidades": {
+        "ganadorLocal": 100,
+        "empate": 0,
+        "ganadorVisita": 0,
+        "ganadorSimpleLocal": 11.1,
+        "ganadorSimpleVisita": 50,
+        "btts": 0,
+        "over15": 0,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 2,
+        "visita": 6
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Mexico - Liga MX - Apertura",
+      "region": "Mexico",
+      "ligaSlug": "mexico",
+      "equipoLocal": "Tijuana",
+      "equipoVisita": "Atlas",
+      "horaInicio": "2026-09-26T04:00:00.000Z",
+      "equipoFavorito": "Atlas",
+      "probabilidades": {
+        "ganadorLocal": 30.4,
+        "empate": 0,
+        "ganadorVisita": 69.6,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 44.4,
+        "btts": 12.5,
+        "over15": 71,
+        "over25": 29
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 8,
+        "visita": 8
       },
       "cumple": {
         "ganador60": false,
         "ganadorSimple60": false,
         "over15_60": true,
-        "over25_60": true,
+        "over25_60": false,
         "btts60": false,
         "rachaGanadora": false
       },
@@ -153,35 +1017,863 @@
       "liga": "Mexico - Liga Expansion - Apertura",
       "region": "Mexico",
       "ligaSlug": "mexico3",
-      "equipoLocal": "M. Zacatecas",
-      "equipoVisita": "Piratas",
-      "horaInicio": "2026-09-25T02:00:00.000Z",
-      "equipoFavorito": "Piratas",
+      "equipoLocal": "Correcaminos",
+      "equipoVisita": "Jaiba Brava",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "Correcaminos",
       "probabilidades": {
-        "ganadorLocal": 34.2,
+        "ganadorLocal": 57.1,
         "empate": 0,
-        "ganadorVisita": 65.8,
-        "ganadorSimpleLocal": 44.4,
-        "ganadorSimpleVisita": 44.4,
-        "btts": 45,
-        "over15": 77.5,
-        "over25": 47.5
+        "ganadorVisita": 42.9,
+        "ganadorSimpleLocal": 33.3,
+        "ganadorSimpleVisita": 33.3,
+        "btts": 62.5,
+        "over15": 87.5,
+        "over25": 75
       },
       "rachas": {
         "local": "-",
         "visita": "-"
       },
       "ppg": {
-        "local": 13,
-        "visita": 3
+        "local": 7,
+        "visita": 5
       },
       "cumple": {
         "ganador60": false,
         "ganadorSimple60": false,
         "over15_60": true,
+        "over25_60": true,
+        "btts60": true,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Netherlands - Eerste Divisie",
+      "region": "Netherlands",
+      "ligaSlug": "netherlands2",
+      "equipoLocal": "FC Dordrecht",
+      "equipoVisita": "Almere City",
+      "horaInicio": "2026-09-25T20:00:00.000Z",
+      "equipoFavorito": "Almere City",
+      "probabilidades": {
+        "ganadorLocal": 36.3,
+        "empate": 0,
+        "ganadorVisita": 63.7,
+        "ganadorSimpleLocal": 14.3,
+        "ganadorSimpleVisita": 71.4,
+        "btts": 37.5,
+        "over15": 50,
+        "over25": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 5,
+        "visita": 2
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
         "over25_60": false,
         "btts60": false,
         "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Northern Ireland - NIFL Premiership",
+      "region": "Northern Ireland",
+      "ligaSlug": "northernireland",
+      "equipoLocal": "Coleraine",
+      "equipoVisita": "Linfield",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Linfield",
+      "probabilidades": {
+        "ganadorLocal": 47.8,
+        "empate": 0,
+        "ganadorVisita": 52.2,
+        "ganadorSimpleLocal": 87.5,
+        "ganadorSimpleVisita": 75,
+        "btts": 0,
+        "over15": 12.5,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 8,
+        "visita": 4
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Northern Ireland - NIFL Premiership",
+      "region": "Northern Ireland",
+      "ligaSlug": "northernireland",
+      "equipoLocal": "Larne",
+      "equipoVisita": "Dungannon",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Dungannon",
+      "probabilidades": {
+        "ganadorLocal": 47.1,
+        "empate": 0,
+        "ganadorVisita": 52.9,
+        "ganadorSimpleLocal": 83.3,
+        "ganadorSimpleVisita": 50,
+        "btts": 16.5,
+        "over15": 16.5,
+        "over25": 16.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 5,
+        "visita": 5
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Norway - Toppserien Women",
+      "region": "Norway",
+      "ligaSlug": "norway11",
+      "equipoLocal": "Bodo/Glimt W",
+      "equipoVisita": "Roa W",
+      "horaInicio": "2026-09-25T17:00:00.000Z",
+      "equipoFavorito": "Bodo/Glimt W",
+      "probabilidades": {
+        "ganadorLocal": 100,
+        "empate": 0,
+        "ganadorVisita": 0,
+        "ganadorSimpleLocal": 0,
+        "ganadorSimpleVisita": 12.5,
+        "btts": 23.5,
+        "over15": 52.5,
+        "over25": 28
+      },
+      "rachas": {
+        "local": "W3",
+        "visita": "W11"
+      },
+      "ppg": {
+        "local": 3,
+        "visita": 18
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Paraguay - Primera Div. - Clausura",
+      "region": "Paraguay",
+      "ligaSlug": "paraguay2",
+      "equipoLocal": "S. Luqueno",
+      "equipoVisita": "Guarani",
+      "horaInicio": "2026-09-25T20:30:00.000Z",
+      "equipoFavorito": "Guarani",
+      "probabilidades": {
+        "ganadorLocal": 37.1,
+        "empate": 0,
+        "ganadorVisita": 62.9,
+        "ganadorSimpleLocal": 36.4,
+        "ganadorSimpleVisita": 36.4,
+        "btts": 0,
+        "over15": 16.5,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 6,
+        "visita": 8
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Paraguay - Primera Div. - Clausura",
+      "region": "Paraguay",
+      "ligaSlug": "paraguay2",
+      "equipoLocal": "Nacional",
+      "equipoVisita": "S. Ameliano",
+      "horaInicio": "2026-09-25T23:00:00.000Z",
+      "equipoFavorito": "S. Ameliano",
+      "probabilidades": {
+        "ganadorLocal": 32.3,
+        "empate": 0,
+        "ganadorVisita": 67.7,
+        "ganadorSimpleLocal": 54.5,
+        "ganadorSimpleVisita": 36.4,
+        "btts": 16.5,
+        "over15": 16.5,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 10,
+        "visita": 6
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Scotland - Championship",
+      "region": "Scotland",
+      "ligaSlug": "scotland2",
+      "equipoLocal": "Arbroath",
+      "equipoVisita": "Queens Park",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Arbroath",
+      "probabilidades": {
+        "ganadorLocal": 53.3,
+        "empate": 0,
+        "ganadorVisita": 46.7,
+        "ganadorSimpleLocal": 28.6,
+        "ganadorSimpleVisita": 14.3,
+        "btts": 0,
+        "over15": 29,
+        "over25": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 2,
+        "visita": 7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Scotland - Championship",
+      "region": "Scotland",
+      "ligaSlug": "scotland2",
+      "equipoLocal": "Ayr Utd",
+      "equipoVisita": "Stenhousemuir",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Ayr Utd",
+      "probabilidades": {
+        "ganadorLocal": 53.3,
+        "empate": 0,
+        "ganadorVisita": 46.7,
+        "ganadorSimpleLocal": 28.6,
+        "ganadorSimpleVisita": 85.7,
+        "btts": 29,
+        "over15": 41.5,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 4,
+        "visita": 1
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Scotland - Championship",
+      "region": "Scotland",
+      "ligaSlug": "scotland2",
+      "equipoLocal": "Dunfermline",
+      "equipoVisita": "Partick Thistle",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Partick Thistle",
+      "probabilidades": {
+        "ganadorLocal": 46.1,
+        "empate": 0,
+        "ganadorVisita": 53.9,
+        "ganadorSimpleLocal": 42.9,
+        "ganadorSimpleVisita": 42.9,
+        "btts": 0,
+        "over15": 0,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 4,
+        "visita": 0
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Scotland - Championship",
+      "region": "Scotland",
+      "ligaSlug": "scotland2",
+      "equipoLocal": "Inverness",
+      "equipoVisita": "Greenock Morton",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Inverness",
+      "probabilidades": {
+        "ganadorLocal": 100,
+        "empate": 0,
+        "ganadorVisita": 0,
+        "ganadorSimpleLocal": 14.3,
+        "ganadorSimpleVisita": 0,
+        "btts": 29,
+        "over15": 29,
+        "over25": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 1,
+        "visita": 8
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "Scotland - Championship",
+      "region": "Scotland",
+      "ligaSlug": "scotland2",
+      "equipoLocal": "Raith Rovers",
+      "equipoVisita": "Livingston",
+      "horaInicio": "2026-09-25T19:45:00.000Z",
+      "equipoFavorito": "Raith Rovers",
+      "probabilidades": {
+        "ganadorLocal": 50,
+        "empate": 0,
+        "ganadorVisita": 50,
+        "ganadorSimpleLocal": 57.1,
+        "ganadorSimpleVisita": 42.9,
+        "btts": 0,
+        "over15": 33.5,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 7,
+        "visita": 3
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Spain - LaLiga2",
+      "region": "Spain",
+      "ligaSlug": "spain2",
+      "equipoLocal": "Girona",
+      "equipoVisita": "Albacete",
+      "horaInicio": "2026-09-25T19:30:00.000Z",
+      "equipoFavorito": "Girona",
+      "probabilidades": {
+        "ganadorLocal": 62.5,
+        "empate": 0,
+        "ganadorVisita": 37.5,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 0,
+        "btts": 0,
+        "over15": 33.5,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 7,
+        "visita": 5
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Spain - Primera RFEF - Gr. 2",
+      "region": "Spain",
+      "ligaSlug": "spain4",
+      "equipoLocal": "Atletico M. B",
+      "equipoVisita": "Villarreal B",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Atletico M. B",
+      "probabilidades": {
+        "ganadorLocal": 66.7,
+        "empate": 0,
+        "ganadorVisita": 33.3,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 75,
+        "btts": 0,
+        "over15": 25,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 6,
+        "visita": 3
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Spain - Primera RFEF - Gr. 2",
+      "region": "Spain",
+      "ligaSlug": "spain4",
+      "equipoLocal": "UD Ibiza",
+      "equipoVisita": "Real Zaragoza",
+      "horaInicio": "2026-09-25T20:15:00.000Z",
+      "equipoFavorito": "Real Zaragoza",
+      "probabilidades": {
+        "ganadorLocal": 42.9,
+        "empate": 0,
+        "ganadorVisita": 57.1,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 75,
+        "btts": 50,
+        "over15": 50,
+        "over25": 50
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 4,
+        "visita": 0
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Sweden - Div 1 - Norra",
+      "region": "Sweden",
+      "ligaSlug": "sweden3",
+      "equipoLocal": "Hammarby Talang",
+      "equipoVisita": "Stocksund",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Stocksund",
+      "probabilidades": {
+        "ganadorLocal": 31.4,
+        "empate": 0,
+        "ganadorVisita": 68.6,
+        "ganadorSimpleLocal": 52.2,
+        "ganadorSimpleVisita": 13,
+        "btts": 17.5,
+        "over15": 39,
+        "over25": 22
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 20,
+        "visita": 34
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "Sweden - Div 1 - Sodra",
+      "region": "Sweden",
+      "ligaSlug": "sweden4",
+      "equipoLocal": "Lund",
+      "equipoVisita": "Kristianstad",
+      "horaInicio": "2026-09-25T18:00:00.000Z",
+      "equipoFavorito": "Kristianstad",
+      "probabilidades": {
+        "ganadorLocal": 18.2,
+        "empate": 0,
+        "ganadorVisita": 81.8,
+        "ganadorSimpleLocal": 47.8,
+        "ganadorSimpleVisita": 26.1,
+        "btts": 25,
+        "over15": 25,
+        "over25": 8.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 26,
+        "visita": 15
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
+    },
+    {
+      "liga": "USA - USL Championship",
+      "region": "USA",
+      "ligaSlug": "usa2",
+      "equipoLocal": "Hartford A.",
+      "equipoVisita": "Louisville City",
+      "horaInicio": "2026-09-26T00:00:00.000Z",
+      "equipoFavorito": "Louisville City",
+      "probabilidades": {
+        "ganadorLocal": 23.3,
+        "empate": 0,
+        "ganadorVisita": 76.7,
+        "ganadorSimpleLocal": 36,
+        "ganadorSimpleVisita": 40,
+        "btts": 16.5,
+        "over15": 24.5,
+        "over25": 12.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 16,
+        "visita": 16
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - USL Championship",
+      "region": "USA",
+      "ligaSlug": "usa2",
+      "equipoLocal": "Sporting JAX",
+      "equipoVisita": "Loudoun Utd",
+      "horaInicio": "2026-09-26T00:30:00.000Z",
+      "equipoFavorito": "Loudoun Utd",
+      "probabilidades": {
+        "ganadorLocal": 21.9,
+        "empate": 0,
+        "ganadorVisita": 78.1,
+        "ganadorSimpleLocal": 12,
+        "ganadorSimpleVisita": 12.5,
+        "btts": 9,
+        "over15": 33.5,
+        "over25": 20.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 19,
+        "visita": 23
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - USL Championship",
+      "region": "USA",
+      "ligaSlug": "usa2",
+      "equipoLocal": "El Paso",
+      "equipoVisita": "FC Tulsa",
+      "horaInicio": "2026-09-26T02:00:00.000Z",
+      "equipoFavorito": "FC Tulsa",
+      "probabilidades": {
+        "ganadorLocal": 23.5,
+        "empate": 0,
+        "ganadorVisita": 76.5,
+        "ganadorSimpleLocal": 56,
+        "ganadorSimpleVisita": 41.7,
+        "btts": 18.5,
+        "over15": 41,
+        "over25": 14.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "local": 20,
+        "visita": 7
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
+    },
+    {
+      "liga": "USA - NWSL",
+      "region": "USA",
+      "ligaSlug": "usa6",
+      "equipoLocal": "R. Louisville W",
+      "equipoVisita": "San Diego W. W",
+      "horaInicio": "2026-09-25T23:30:00.000Z",
+      "equipoFavorito": "San Diego W. W",
+      "probabilidades": {
+        "ganadorLocal": 15.5,
+        "empate": 0,
+        "ganadorVisita": 84.5,
+        "ganadorSimpleLocal": 28,
+        "ganadorSimpleVisita": 56,
+        "btts": 7.5,
+        "over15": 27.5,
+        "over25": 7.5
+      },
+      "rachas": {
+        "local": "W23",
+        "visita": "W45"
+      },
+      "ppg": {
+        "local": 19,
+        "visita": 15
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
+      },
+      "destacado": true
+    },
+    {
+      "liga": "USA - NWSL",
+      "region": "USA",
+      "ligaSlug": "usa6",
+      "equipoLocal": "Gotham FC W",
+      "equipoVisita": "Chicago RS W",
+      "horaInicio": "2026-09-26T01:00:00.000Z",
+      "equipoFavorito": "Chicago RS W",
+      "probabilidades": {
+        "ganadorLocal": 22.6,
+        "empate": 0,
+        "ganadorVisita": 77.4,
+        "ganadorSimpleLocal": 60,
+        "ganadorSimpleVisita": 20,
+        "btts": 15.5,
+        "over15": 26.5,
+        "over25": 8
+      },
+      "rachas": {
+        "local": "W51",
+        "visita": "W17"
+      },
+      "ppg": {
+        "local": 14,
+        "visita": 25
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": true,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
+      },
+      "destacado": true
+    },
+    {
+      "liga": "USA - NWSL",
+      "region": "USA",
+      "ligaSlug": "usa6",
+      "equipoLocal": "Seattle Reign W",
+      "equipoVisita": "Boston Legacy W",
+      "horaInicio": "2026-09-26T01:30:00.000Z",
+      "equipoFavorito": "Boston Legacy W",
+      "probabilidades": {
+        "ganadorLocal": 17.5,
+        "empate": 0,
+        "ganadorVisita": 82.5,
+        "ganadorSimpleLocal": 44,
+        "ganadorSimpleVisita": 28,
+        "btts": 24.5,
+        "over15": 40,
+        "over25": 4
+      },
+      "rachas": {
+        "local": "W37",
+        "visita": "W26"
+      },
+      "ppg": {
+        "local": 14,
+        "visita": 26
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
+      },
+      "destacado": true
+    },
+    {
+      "liga": "USA - USL Super League",
+      "region": "USA",
+      "ligaSlug": "usa7",
+      "equipoLocal": "Lexington W",
+      "equipoVisita": "Dallas T. W",
+      "horaInicio": "2026-09-26T00:30:00.000Z",
+      "equipoFavorito": "Lexington W",
+      "probabilidades": {
+        "ganadorLocal": 60,
+        "empate": 0,
+        "ganadorVisita": 40,
+        "ganadorSimpleLocal": 50,
+        "ganadorSimpleVisita": 50,
+        "btts": 0,
+        "over15": 0,
+        "over25": 0
+      },
+      "rachas": {
+        "local": "W6",
+        "visita": "W10"
+      },
+      "ppg": {
+        "local": 4,
+        "visita": 5
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": true
       },
       "destacado": true
     }

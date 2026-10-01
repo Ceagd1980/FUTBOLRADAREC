@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-30T13:07:56.051Z",
+  "generadoEn": "2026-10-01T13:28:56.695Z",
   "ligas": {
     "albania": {
       "nombre": "Albania - Abissnet Superiore",
@@ -326,16 +326,6 @@
           "fechaISO": "2026-10-16T17:30:00.000Z",
           "local": "Dinamo Tirana",
           "visita": "Teuta Durres"
-        },
-        {
-          "fechaISO": "2026-10-17T01:00:00.000Z",
-          "local": "Egnatia R.",
-          "visita": "Vllaznia S."
-        },
-        {
-          "fechaISO": "2026-10-17T01:00:00.000Z",
-          "local": "Vora",
-          "visita": "Partizani T."
         },
         {
           "fechaISO": "2026-10-17T12:30:00.000Z",
@@ -2113,6 +2103,11 @@
         },
         {
           "fechaISO": "2026-10-03T01:30:00.000Z",
+          "local": "Boca Juniors",
+          "visita": "Union Santa Fe"
+        },
+        {
+          "fechaISO": "2026-10-03T01:30:00.000Z",
           "local": "I. Rivadavia",
           "visita": "Gimnasia"
         },
@@ -2132,12 +2127,7 @@
           "visita": "Lanus"
         },
         {
-          "fechaISO": "2026-10-03T23:15:00.000Z",
-          "local": "Argentinos Jrs",
-          "visita": "Tigre"
-        },
-        {
-          "fechaISO": "2026-10-04T01:30:00.000Z",
+          "fechaISO": "2026-10-04T18:45:00.000Z",
           "local": "Huracan",
           "visita": "Aldosivi"
         },
@@ -2148,8 +2138,8 @@
         },
         {
           "fechaISO": "2026-10-04T23:15:00.000Z",
-          "local": "Boca Juniors",
-          "visita": "Union Santa Fe"
+          "local": "Argentinos Jrs",
+          "visita": "Tigre"
         },
         {
           "fechaISO": "2026-10-05T01:30:00.000Z",
@@ -2187,7 +2177,9 @@
           "over15": 50,
           "over25": 38,
           "over35": 19,
-          "btts": 38
+          "btts": 38,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 4
         },
         "tristansuarez": {
           "nombreOriginal": "Tristan Suarez",
@@ -2214,7 +2206,9 @@
           "over15": 38,
           "over25": 19,
           "over35": 12,
-          "btts": 25
+          "btts": 25,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 5
         },
         "deportivomoron": {
           "nombreOriginal": "Deportivo Moron",
@@ -2241,7 +2235,9 @@
           "over15": 81,
           "over25": 62,
           "over35": 19,
-          "btts": 62
+          "btts": 62,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 4
         },
         "gimnasiajujuy": {
           "nombreOriginal": "Gimnasia Jujuy",
@@ -2268,7 +2264,9 @@
           "over15": 93,
           "over25": 60,
           "over35": 20,
-          "btts": 67
+          "btts": 67,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 2
         },
         "godoycruz": {
           "nombreOriginal": "Godoy Cruz",
@@ -2295,7 +2293,9 @@
           "over15": 56,
           "over25": 31,
           "over35": 19,
-          "btts": 44
+          "btts": 44,
+          "htGolesFavorAprox": 2,
+          "htGolesContraAprox": 2
         },
         "temperley": {
           "nombreOriginal": "Temperley",
@@ -2322,7 +2322,9 @@
           "over15": 25,
           "over25": 6,
           "over35": 0,
-          "btts": 25
+          "btts": 25,
+          "htGolesFavorAprox": 2,
+          "htGolesContraAprox": 2
         },
         "aatlanta": {
           "nombreOriginal": "A. Atlanta",
@@ -2349,7 +2351,9 @@
           "over15": 60,
           "over25": 40,
           "over35": 13,
-          "btts": 40
+          "btts": 40,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 2
         },
         "dmadryn": {
           "nombreOriginal": "D. Madryn",
@@ -2378,7 +2382,9 @@
           "over35": 33,
           "btts": 53,
           "rachaTipo": "D",
-          "rachaLongitud": 8
+          "rachaLongitud": 8,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 3
         },
         "colonsantafe": {
           "nombreOriginal": "Colon Santa Fe",
@@ -2405,7 +2411,9 @@
           "over15": 75,
           "over25": 25,
           "over35": 6,
-          "btts": 44
+          "btts": 44,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 2
         },
         "gimnasiaytiro": {
           "nombreOriginal": "Gimnasia y Tiro",
@@ -2432,7 +2440,9 @@
           "over15": 67,
           "over25": 47,
           "over35": 20,
-          "btts": 53
+          "btts": 53,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 4
         },
         "midland": {
           "nombreOriginal": "Midland",
@@ -2459,7 +2469,9 @@
           "over15": 67,
           "over25": 40,
           "over35": 20,
-          "btts": 53
+          "btts": 53,
+          "htGolesFavorAprox": 2,
+          "htGolesContraAprox": 2
         },
         "almirantebrown": {
           "nombreOriginal": "Almirante Brown",
@@ -2486,7 +2498,9 @@
           "over15": 33,
           "over25": 20,
           "over35": 7,
-          "btts": 27
+          "btts": 27,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 2
         },
         "smsanjuan": {
           "nombreOriginal": "SM San Juan",
@@ -2513,7 +2527,9 @@
           "over15": 69,
           "over25": 38,
           "over35": 0,
-          "btts": 50
+          "btts": 50,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
         },
         "caestudiantes": {
           "nombreOriginal": "CA Estudiantes",
@@ -2540,7 +2556,9 @@
           "over15": 47,
           "over25": 27,
           "over35": 0,
-          "btts": 27
+          "btts": 27,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 2
         },
         "deportivomaipu": {
           "nombreOriginal": "Deportivo Maipu",
@@ -2567,7 +2585,9 @@
           "over15": 73,
           "over25": 60,
           "over35": 33,
-          "btts": 60
+          "btts": 60,
+          "htGolesFavorAprox": 2,
+          "htGolesContraAprox": 2
         },
         "colegiales": {
           "nombreOriginal": "Colegiales",
@@ -2594,7 +2614,9 @@
           "over15": 60,
           "over25": 27,
           "over35": 13,
-          "btts": 27
+          "btts": 27,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
         },
         "ciudadbolivar": {
           "nombreOriginal": "Ciudad Bolivar",
@@ -2621,7 +2643,9 @@
           "over15": 47,
           "over25": 20,
           "over35": 13,
-          "btts": 33
+          "btts": 33,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 3
         },
         "arafaela": {
           "nombreOriginal": "A. Rafaela",
@@ -2648,7 +2672,9 @@
           "over15": 56,
           "over25": 19,
           "over35": 0,
-          "btts": 31
+          "btts": 31,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
         },
         "losandes": {
           "nombreOriginal": "Los Andes",
@@ -2675,7 +2701,9 @@
           "over15": 53,
           "over25": 27,
           "over35": 0,
-          "btts": 20
+          "btts": 20,
+          "htGolesFavorAprox": 2,
+          "htGolesContraAprox": 3
         },
         "smtucuman": {
           "nombreOriginal": "SM Tucuman",
@@ -2702,7 +2730,9 @@
           "over15": 75,
           "over25": 25,
           "over35": 12,
-          "btts": 44
+          "btts": 44,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 3
         },
         "quilmes": {
           "nombreOriginal": "Quilmes",
@@ -2729,7 +2759,9 @@
           "over15": 40,
           "over25": 40,
           "over35": 20,
-          "btts": 27
+          "btts": 27,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
         },
         "chacoforever": {
           "nombreOriginal": "Chaco For Ever",
@@ -2756,7 +2788,9 @@
           "over15": 56,
           "over25": 25,
           "over35": 12,
-          "btts": 31
+          "btts": 31,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 2
         },
         "ddebelgrano": {
           "nombreOriginal": "D. de Belgrano",
@@ -2785,7 +2819,9 @@
           "over35": 0,
           "btts": 27,
           "rachaTipo": "D",
-          "rachaLongitud": 23
+          "rachaLongitud": 23,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 2
         },
         "nuevachicago": {
           "nombreOriginal": "Nueva Chicago",
@@ -2812,7 +2848,9 @@
           "over15": 44,
           "over25": 19,
           "over35": 6,
-          "btts": 12
+          "btts": 12,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 2
         },
         "agropecuario": {
           "nombreOriginal": "Agropecuario",
@@ -2839,7 +2877,9 @@
           "over15": 75,
           "over25": 31,
           "over35": 12,
-          "btts": 44
+          "btts": 44,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
         },
         "racingcordoba": {
           "nombreOriginal": "Racing Cordoba",
@@ -2866,7 +2906,9 @@
           "over15": 80,
           "over25": 33,
           "over35": 0,
-          "btts": 40
+          "btts": 40,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
         },
         "almagro": {
           "nombreOriginal": "Almagro",
@@ -2893,7 +2935,9 @@
           "over15": 60,
           "over25": 33,
           "over35": 20,
-          "btts": 40
+          "btts": 40,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 2
         },
         "patronato": {
           "nombreOriginal": "Patronato",
@@ -2920,7 +2964,9 @@
           "over15": 53,
           "over25": 20,
           "over35": 7,
-          "btts": 33
+          "btts": 33,
+          "htGolesFavorAprox": 4,
+          "htGolesContraAprox": 0
         },
         "santelmo": {
           "nombreOriginal": "San Telmo",
@@ -2947,7 +2993,9 @@
           "over15": 56,
           "over25": 38,
           "over35": 6,
-          "btts": 38
+          "btts": 38,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 1
         },
         "allboys": {
           "nombreOriginal": "All Boys",
@@ -2974,7 +3022,9 @@
           "over15": 53,
           "over25": 27,
           "over35": 13,
-          "btts": 33
+          "btts": 33,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 0
         },
         "centralnorte": {
           "nombreOriginal": "Central Norte",
@@ -3001,7 +3051,9 @@
           "over15": 50,
           "over25": 31,
           "over35": 12,
-          "btts": 38
+          "btts": 38,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 2
         },
         "camitre": {
           "nombreOriginal": "CA Mitre",
@@ -3028,7 +3080,9 @@
           "over15": 73,
           "over25": 40,
           "over35": 20,
-          "btts": 47
+          "btts": 47,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
         },
         "sanmiguel": {
           "nombreOriginal": "San Miguel",
@@ -3055,7 +3109,9 @@
           "over15": 75,
           "over25": 38,
           "over35": 12,
-          "btts": 50
+          "btts": 50,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 1
         },
         "chacaritaj": {
           "nombreOriginal": "Chacarita J.",
@@ -3082,7 +3138,9 @@
           "over15": 56,
           "over25": 19,
           "over35": 6,
-          "btts": 31
+          "btts": 31,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 1
         },
         "acassuso": {
           "nombreOriginal": "Acassuso",
@@ -3109,7 +3167,9 @@
           "over15": 44,
           "over25": 25,
           "over35": 19,
-          "btts": 31
+          "btts": 31,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
         },
         "caguemes": {
           "nombreOriginal": "CA Guemes",
@@ -3136,19 +3196,16 @@
           "over15": 94,
           "over25": 44,
           "over35": 12,
-          "btts": 62
+          "btts": 62,
+          "htGolesFavorAprox": 2,
+          "htGolesContraAprox": 1
         }
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-03T01:00:00.000Z",
+          "fechaISO": "2026-10-02T19:00:00.000Z",
           "local": "Ferro Carril",
           "visita": "D. Madryn"
-        },
-        {
-          "fechaISO": "2026-10-03T01:00:00.000Z",
-          "local": "Nueva Chicago",
-          "visita": "Deportivo Maipu"
         },
         {
           "fechaISO": "2026-10-03T19:00:00.000Z",
@@ -3189,6 +3246,11 @@
           "fechaISO": "2026-10-04T19:30:00.000Z",
           "local": "Chacarita J.",
           "visita": "Patronato"
+        },
+        {
+          "fechaISO": "2026-10-04T19:30:00.000Z",
+          "local": "San Telmo",
+          "visita": "Almirante Brown"
         }
       ]
     },
@@ -3547,16 +3609,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-10T01:00:00.000Z",
-          "local": "Pyunik",
-          "visita": "BKMA"
-        },
-        {
-          "fechaISO": "2026-10-10T01:00:00.000Z",
-          "local": "Syunik",
-          "visita": "Shirak"
-        },
-        {
           "fechaISO": "2026-10-10T13:00:00.000Z",
           "local": "Van",
           "visita": "Gandzasar"
@@ -3577,22 +3629,22 @@
           "visita": "Ararat Yerevan"
         },
         {
-          "fechaISO": "2026-10-16T01:00:00.000Z",
+          "fechaISO": "2026-10-12T13:00:00.000Z",
+          "local": "Syunik",
+          "visita": "Shirak"
+        },
+        {
+          "fechaISO": "2026-10-12T16:00:00.000Z",
+          "local": "Pyunik",
+          "visita": "BKMA"
+        },
+        {
+          "fechaISO": "2026-10-16T12:30:00.000Z",
           "local": "Alashkert",
           "visita": "Syunik"
         },
         {
-          "fechaISO": "2026-10-16T01:00:00.000Z",
-          "local": "Ararat Yerevan",
-          "visita": "Shirak"
-        },
-        {
-          "fechaISO": "2026-10-16T01:00:00.000Z",
-          "local": "BKMA",
-          "visita": "Ararat-Armenia"
-        },
-        {
-          "fechaISO": "2026-10-16T01:00:00.000Z",
+          "fechaISO": "2026-10-16T16:00:00.000Z",
           "local": "Gandzasar",
           "visita": "Sardarapat"
         }
@@ -10393,6 +10445,16 @@
       },
       "partidos": [
         {
+          "fechaISO": "2026-10-03T00:00:00.000Z",
+          "local": "Sao Paulo",
+          "visita": "Santos"
+        },
+        {
+          "fechaISO": "2026-10-03T22:30:00.000Z",
+          "local": "Atletico MG",
+          "visita": "Bragantino"
+        },
+        {
           "fechaISO": "2026-10-07T23:30:00.000Z",
           "local": "Bragantino",
           "visita": "Mirassol"
@@ -10431,16 +10493,6 @@
           "fechaISO": "2026-10-09T00:00:00.000Z",
           "local": "Athletico PR",
           "visita": "Atletico MG"
-        },
-        {
-          "fechaISO": "2026-10-09T01:30:00.000Z",
-          "local": "Fluminense",
-          "visita": "Coritiba"
-        },
-        {
-          "fechaISO": "2026-10-09T01:30:00.000Z",
-          "local": "Palmeiras",
-          "visita": "Bahia"
         }
       ]
     },
@@ -13269,15 +13321,15 @@
       "equipos": {
         "cavalry": {
           "nombreOriginal": "Cavalry",
-          "gp": 23,
+          "gp": 24,
           "w": 16,
           "d": 5,
-          "l": 2,
-          "gf": 48,
-          "ga": 13,
+          "l": 3,
+          "gf": 50,
+          "ga": 16,
           "pts": 53,
           "ppg": null,
-          "wh": 2.3,
+          "wh": 2.21,
           "dh": null,
           "lh": 9,
           "gfh": 3,
@@ -13289,8 +13341,8 @@
           "la": null,
           "gfa": null,
           "gaa": 7,
-          "over15": 18,
-          "over25": 9,
+          "over15": 17,
+          "over25": 8,
           "over35": 0,
           "btts": 0,
           "htGolesFavorAprox": 0,
@@ -13327,21 +13379,21 @@
         },
         "aottawa": {
           "nombreOriginal": "A. Ottawa",
-          "gp": 24,
-          "w": 11,
+          "gp": 25,
+          "w": 12,
           "d": 4,
           "l": 9,
-          "gf": 35,
-          "ga": 39,
-          "pts": 37,
+          "gf": 38,
+          "ga": 41,
+          "pts": 40,
           "ppg": null,
-          "wh": 1.54,
+          "wh": 1.6,
           "dh": null,
-          "lh": 7,
+          "lh": 8,
           "gfh": 3,
           "gah": 2,
-          "ppgh": 21,
-          "ppga": 15,
+          "ppgh": 24,
+          "ppga": 17,
           "wa": null,
           "da": null,
           "la": null,
@@ -13502,11 +13554,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-01T00:00:00.000Z",
-          "local": "A. Ottawa",
-          "visita": "Cavalry"
-        },
-        {
           "fechaISO": "2026-10-03T17:00:00.000Z",
           "local": "York Utd",
           "visita": "Cavalry"
@@ -13525,6 +13572,11 @@
           "fechaISO": "2026-10-07T16:00:00.000Z",
           "local": "York Utd",
           "visita": "Supra du Quebec"
+        },
+        {
+          "fechaISO": "2026-10-10T21:00:00.000Z",
+          "local": "Supra du Quebec",
+          "visita": "Vancouver FC"
         }
       ]
     },
@@ -14111,15 +14163,15 @@
         },
         "sanluis": {
           "nombreOriginal": "San Luis",
-          "gp": 24,
-          "w": 11,
+          "gp": 25,
+          "w": 12,
           "d": 8,
           "l": 5,
-          "gf": 38,
+          "gf": 39,
           "ga": 29,
-          "pts": 41,
+          "pts": 44,
           "ppg": null,
-          "wh": 1.71,
+          "wh": 1.76,
           "dh": null,
           "lh": 8,
           "gfh": 4,
@@ -14130,11 +14182,11 @@
           "da": null,
           "la": null,
           "gfa": null,
-          "gaa": 3,
-          "over15": 36,
-          "over25": 9,
+          "gaa": 4,
+          "over15": 33,
+          "over25": 8,
           "over35": 0,
-          "btts": 18,
+          "btts": 17,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 2
         },
@@ -14461,21 +14513,21 @@
         },
         "usanfelipe": {
           "nombreOriginal": "U. San Felipe",
-          "gp": 24,
+          "gp": 25,
           "w": 5,
           "d": 7,
-          "l": 12,
+          "l": 13,
           "gf": 16,
-          "ga": 41,
+          "ga": 42,
           "pts": 22,
           "ppg": null,
-          "wh": 0.92,
+          "wh": 0.88,
           "dh": null,
           "lh": 3,
           "gfh": 5,
-          "gah": 3,
+          "gah": 4,
           "ppgh": 8,
-          "ppga": 9,
+          "ppga": 10,
           "wa": null,
           "da": null,
           "la": null,
@@ -14520,11 +14572,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-30T22:00:00.000Z",
-          "local": "U. San Felipe",
-          "visita": "San Luis"
-        },
-        {
           "fechaISO": "2026-10-10T16:30:00.000Z",
           "local": "Recoleta",
           "visita": "Magallanes"
@@ -14563,6 +14610,16 @@
           "fechaISO": "2026-10-12T21:30:00.000Z",
           "local": "D. Iquique",
           "visita": "Union Espanola"
+        },
+        {
+          "fechaISO": "2026-10-18T01:00:00.000Z",
+          "local": "CD Santa Cruz",
+          "visita": "Antofagasta"
+        },
+        {
+          "fechaISO": "2026-10-18T01:00:00.000Z",
+          "local": "Cobreloa",
+          "visita": "Recoleta"
         }
       ]
     },
@@ -16227,6 +16284,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         },
+        "anacional": {
+          "nombreOriginal": "A. Nacional",
+          "gp": 10,
+          "w": 7,
+          "d": 1,
+          "l": 2,
+          "gf": 21,
+          "ga": 10,
+          "pts": 22,
+          "ppg": null,
+          "wh": 2.2,
+          "dh": null,
+          "lh": 3,
+          "gfh": 1,
+          "gah": 0,
+          "ppgh": 8,
+          "ppga": 3,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 4,
+          "over15": 67,
+          "over25": 33,
+          "over35": 17,
+          "btts": 33,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 2
+        },
         "deportivocali": {
           "nombreOriginal": "Deportivo Cali",
           "gp": 11,
@@ -16342,35 +16428,6 @@
           "btts": 40,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
-        },
-        "anacional": {
-          "nombreOriginal": "A. Nacional",
-          "gp": 9,
-          "w": 6,
-          "d": 1,
-          "l": 2,
-          "gf": 18,
-          "ga": 9,
-          "pts": 19,
-          "ppg": null,
-          "wh": 2.11,
-          "dh": null,
-          "lh": 2,
-          "gfh": 1,
-          "gah": 0,
-          "ppgh": 5,
-          "ppga": 2,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 4,
-          "over15": 67,
-          "over25": 33,
-          "over35": 17,
-          "btts": 33,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 2
         },
         "santafe": {
           "nombreOriginal": "Santa Fe",
@@ -16635,15 +16692,15 @@
         },
         "junior": {
           "nombreOriginal": "Junior",
-          "gp": 9,
+          "gp": 10,
           "w": 2,
           "d": 3,
-          "l": 4,
-          "gf": 14,
-          "ga": 14,
+          "l": 5,
+          "gf": 15,
+          "ga": 17,
           "pts": 9,
           "ppg": null,
-          "wh": 1,
+          "wh": 0.9,
           "dh": null,
           "lh": 1,
           "gfh": 3,
@@ -16655,10 +16712,10 @@
           "la": null,
           "gfa": null,
           "gaa": 1,
-          "over15": 75,
-          "over25": 0,
+          "over15": 80,
+          "over25": 20,
           "over35": 0,
-          "btts": 25,
+          "btts": 40,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
@@ -16783,11 +16840,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-01T02:00:00.000Z",
-          "local": "A. Nacional",
-          "visita": "Junior"
-        },
-        {
           "fechaISO": "2026-10-02T02:00:00.000Z",
           "local": "La Equidad",
           "visita": "Once Caldas"
@@ -16808,11 +16860,6 @@
           "visita": "Boyaca Chico"
         },
         {
-          "fechaISO": "2026-10-04T02:15:00.000Z",
-          "local": "I. Medelin",
-          "visita": "Santa Fe"
-        },
-        {
           "fechaISO": "2026-10-04T20:00:00.000Z",
           "local": "Deportivo Pasto",
           "visita": "Fortaleza CEIF"
@@ -16826,6 +16873,11 @@
           "fechaISO": "2026-10-05T00:10:00.000Z",
           "local": "A. Bucaramanga",
           "visita": "Junior"
+        },
+        {
+          "fechaISO": "2026-10-05T02:15:00.000Z",
+          "local": "Llaneros",
+          "visita": "America de Cali"
         }
       ]
     },
@@ -24608,6 +24660,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
+        "southendutd": {
+          "nombreOriginal": "Southend Utd",
+          "gp": 11,
+          "w": 6,
+          "d": 3,
+          "l": 2,
+          "gf": 26,
+          "ga": 17,
+          "pts": 21,
+          "ppg": null,
+          "wh": 1.91,
+          "dh": null,
+          "lh": 3,
+          "gfh": 0,
+          "gah": 2,
+          "ppgh": 10,
+          "ppga": 10,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 3,
+          "over15": 50,
+          "over25": 33,
+          "over35": 17,
+          "btts": 33,
+          "htGolesFavorAprox": 2,
+          "htGolesContraAprox": 2
+        },
         "altrincham": {
           "nombreOriginal": "Altrincham",
           "gp": 11,
@@ -24635,35 +24716,6 @@
           "over35": 17,
           "btts": 33,
           "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 2
-        },
-        "southendutd": {
-          "nombreOriginal": "Southend Utd",
-          "gp": 10,
-          "w": 6,
-          "d": 2,
-          "l": 2,
-          "gf": 25,
-          "ga": 16,
-          "pts": 20,
-          "ppg": null,
-          "wh": 2,
-          "dh": null,
-          "lh": 3,
-          "gfh": 0,
-          "gah": 2,
-          "ppgh": 10,
-          "ppga": 10,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 3,
-          "over15": 60,
-          "over25": 40,
-          "over35": 20,
-          "btts": 40,
-          "htGolesFavorAprox": 1,
           "htGolesContraAprox": 2
         },
         "afcfylde": {
@@ -24842,15 +24894,15 @@
         },
         "suttonutd": {
           "nombreOriginal": "Sutton Utd",
-          "gp": 10,
+          "gp": 11,
           "w": 5,
           "d": 2,
-          "l": 3,
+          "l": 4,
           "gf": 13,
-          "ga": 13,
+          "ga": 15,
           "pts": 17,
           "ppg": null,
-          "wh": 1.7,
+          "wh": 1.55,
           "dh": null,
           "lh": 3,
           "gfh": 1,
@@ -24927,6 +24979,35 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 1
         },
+        "eastleigh": {
+          "nombreOriginal": "Eastleigh",
+          "gp": 11,
+          "w": 4,
+          "d": 3,
+          "l": 4,
+          "gf": 13,
+          "ga": 15,
+          "pts": 15,
+          "ppg": null,
+          "wh": 1.36,
+          "dh": null,
+          "lh": 3,
+          "gfh": 3,
+          "gah": 0,
+          "ppgh": 9,
+          "ppga": 6,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 1,
+          "over15": 60,
+          "over25": 20,
+          "over35": 0,
+          "btts": 40,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
+        },
         "halifaxtown": {
           "nombreOriginal": "Halifax Town",
           "gp": 11,
@@ -24953,35 +25034,6 @@
           "over25": 20,
           "over35": 0,
           "btts": 20,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 0
-        },
-        "eastleigh": {
-          "nombreOriginal": "Eastleigh",
-          "gp": 10,
-          "w": 4,
-          "d": 2,
-          "l": 4,
-          "gf": 12,
-          "ga": 14,
-          "pts": 14,
-          "ppg": null,
-          "wh": 1.4,
-          "dh": null,
-          "lh": 3,
-          "gfh": 2,
-          "gah": 0,
-          "ppgh": 8,
-          "ppga": 5,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 1,
-          "over15": 60,
-          "over25": 20,
-          "over35": 0,
-          "btts": 40,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         },
@@ -25101,6 +25153,35 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 1
         },
+        "tamworth": {
+          "nombreOriginal": "Tamworth",
+          "gp": 11,
+          "w": 3,
+          "d": 2,
+          "l": 6,
+          "gf": 19,
+          "ga": 28,
+          "pts": 11,
+          "ppg": null,
+          "wh": 1,
+          "dh": null,
+          "lh": 3,
+          "gfh": 1,
+          "gah": 1,
+          "ppgh": 10,
+          "ppga": 7,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 0,
+          "over15": 83,
+          "over25": 50,
+          "over35": 17,
+          "btts": 50,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
+        },
         "scunthorpe": {
           "nombreOriginal": "Scunthorpe",
           "gp": 11,
@@ -25155,35 +25236,6 @@
           "over15": 50,
           "over25": 33,
           "over35": 0,
-          "btts": 50,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 0
-        },
-        "tamworth": {
-          "nombreOriginal": "Tamworth",
-          "gp": 10,
-          "w": 2,
-          "d": 2,
-          "l": 6,
-          "gf": 17,
-          "ga": 28,
-          "pts": 8,
-          "ppg": null,
-          "wh": 0.8,
-          "dh": null,
-          "lh": 2,
-          "gfh": 1,
-          "gah": 1,
-          "ppgh": 8,
-          "ppga": 7,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 0,
-          "over15": 83,
-          "over25": 50,
-          "over35": 17,
           "btts": 50,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
@@ -25249,16 +25301,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-30T19:45:00.000Z",
-          "local": "Eastleigh",
-          "visita": "Southend Utd"
-        },
-        {
-          "fechaISO": "2026-09-30T19:45:00.000Z",
-          "local": "Tamworth",
-          "visita": "Sutton Utd"
-        },
-        {
           "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Aldershot Town",
           "visita": "Carlisle Utd"
@@ -25300,13 +25342,23 @@
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Scunthorpe",
-          "visita": "Forest Green"
+          "local": "Solihull Moors",
+          "visita": "Halifax Town"
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Solihull Moors",
-          "visita": "Halifax Town"
+          "local": "Southend Utd",
+          "visita": "AFC Fylde"
+        },
+        {
+          "fechaISO": "2026-10-03T15:00:00.000Z",
+          "local": "Yeovil Town",
+          "visita": "Boston Utd"
+        },
+        {
+          "fechaISO": "2026-10-09T19:45:00.000Z",
+          "local": "Sutton Utd",
+          "visita": "Boreham Wood"
         }
       ]
     },
@@ -25403,15 +25455,15 @@
         },
         "southshields": {
           "nombreOriginal": "South Shields",
-          "gp": 9,
+          "gp": 10,
           "w": 6,
           "d": 2,
-          "l": 1,
-          "gf": 13,
-          "ga": 10,
+          "l": 2,
+          "gf": 15,
+          "ga": 13,
           "pts": 20,
           "ppg": null,
-          "wh": 2.22,
+          "wh": 2,
           "dh": null,
           "lh": 3,
           "gfh": 2,
@@ -25423,10 +25475,10 @@
           "la": null,
           "gfa": null,
           "gaa": 3,
-          "over15": 25,
-          "over25": 25,
+          "over15": 40,
+          "over25": 40,
           "over35": 0,
-          "btts": 0,
+          "btts": 20,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 2
         },
@@ -25836,6 +25888,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
+        "brackleytown": {
+          "nombreOriginal": "Brackley Town",
+          "gp": 10,
+          "w": 3,
+          "d": 3,
+          "l": 4,
+          "gf": 11,
+          "ga": 19,
+          "pts": 12,
+          "ppg": null,
+          "wh": 1.2,
+          "dh": null,
+          "lh": 2,
+          "gfh": 2,
+          "gah": 1,
+          "ppgh": 6,
+          "ppga": 6,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 1,
+          "over15": 0,
+          "over25": 0,
+          "over35": 0,
+          "btts": 0,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 0
+        },
         "southport": {
           "nombreOriginal": "Southport",
           "gp": 10,
@@ -25892,35 +25973,6 @@
           "over35": 0,
           "btts": 20,
           "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 0
-        },
-        "brackleytown": {
-          "nombreOriginal": "Brackley Town",
-          "gp": 9,
-          "w": 2,
-          "d": 3,
-          "l": 4,
-          "gf": 8,
-          "ga": 17,
-          "pts": 9,
-          "ppg": null,
-          "wh": 1,
-          "dh": null,
-          "lh": 1,
-          "gfh": 2,
-          "gah": 1,
-          "ppgh": 3,
-          "ppga": 4,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 1,
-          "over15": 0,
-          "over25": 0,
-          "over35": 0,
-          "btts": 0,
-          "htGolesFavorAprox": 1,
           "htGolesContraAprox": 0
         },
         "darlington": {
@@ -26783,6 +26835,11 @@
         },
         {
           "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Ebbsfleet Utd",
+          "visita": "Folkestone"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
           "local": "Farnham Town",
           "visita": "Truro City"
         },
@@ -26830,11 +26887,6 @@
           "fechaISO": "2026-10-10T15:00:00.000Z",
           "local": "Horsham",
           "visita": "Maidstone Utd"
-        },
-        {
-          "fechaISO": "2026-10-10T15:00:00.000Z",
-          "local": "Maidenhead Utd",
-          "visita": "Tonbridge"
         }
       ]
     },
@@ -27277,6 +27329,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 2
         },
+        "brentwoodtown": {
+          "nombreOriginal": "Brentwood Town",
+          "gp": 9,
+          "w": 3,
+          "d": 0,
+          "l": 6,
+          "gf": 15,
+          "ga": 16,
+          "pts": 9,
+          "ppg": null,
+          "wh": 1,
+          "dh": null,
+          "lh": 2,
+          "gfh": 0,
+          "gah": 2,
+          "ppgh": 10,
+          "ppga": 7,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 1,
+          "over15": 20,
+          "over25": 0,
+          "over35": 0,
+          "btts": 20,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
+        },
         "maldont": {
           "nombreOriginal": "Maldon.T.",
           "gp": 9,
@@ -27335,52 +27416,23 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 0
         },
-        "brentwoodtown": {
-          "nombreOriginal": "Brentwood Town",
-          "gp": 8,
-          "w": 2,
-          "d": 0,
-          "l": 6,
-          "gf": 13,
-          "ga": 15,
-          "pts": 6,
-          "ppg": null,
-          "wh": 0.75,
-          "dh": null,
-          "lh": 2,
-          "gfh": 0,
-          "gah": 2,
-          "ppgh": 10,
-          "ppga": 7,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 0,
-          "over15": 0,
-          "over25": 0,
-          "over35": 0,
-          "btts": 0,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 0
-        },
         "whyteleafe": {
           "nombreOriginal": "Whyteleafe",
-          "gp": 8,
+          "gp": 9,
           "w": 1,
           "d": 3,
-          "l": 4,
-          "gf": 10,
-          "ga": 17,
+          "l": 5,
+          "gf": 11,
+          "ga": 19,
           "pts": 6,
           "ppg": null,
-          "wh": 0.75,
+          "wh": 0.67,
           "dh": null,
           "lh": 1,
           "gfh": 2,
-          "gah": 1,
-          "ppgh": 8,
-          "ppga": 6,
+          "gah": 2,
+          "ppgh": 9,
+          "ppga": 8,
           "wa": null,
           "da": null,
           "la": null,
@@ -27483,44 +27535,14 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-30T19:45:00.000Z",
-          "local": "Whyteleafe",
-          "visita": "Brentwood Town"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Brentwood Town",
-          "visita": "Cheshunt"
-        },
-        {
           "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Burgess Hill",
           "visita": "Maldon.T."
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Cray Wanderers",
-          "visita": "Three Bridges"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Eastbourne",
-          "visita": "Stanway Rovers"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Enfield Town",
-          "visita": "Chatham Town"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Leatherhead",
-          "visita": "Wingate . F."
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Lewes",
-          "visita": "Dartford"
+          "visita": "Whitehawk"
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
@@ -27533,14 +27555,44 @@
           "visita": "Whyteleafe"
         },
         {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Whitehawk",
-          "visita": "Dulwich Hamlet"
-        },
-        {
           "fechaISO": "2026-10-05T19:45:00.000Z",
           "local": "Carshalton",
           "visita": "Eastbourne"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Chatham Town",
+          "visita": "Leatherhead"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Cheshunt",
+          "visita": "Aveley"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Dartford",
+          "visita": "Ramsgate"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Maldon.T.",
+          "visita": "Welling Utd"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Stanway Rovers",
+          "visita": "Enfield Town"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Wingate . F.",
+          "visita": "Burgess Hill"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Burgess Hill",
+          "visita": "Aveley"
         }
       ]
     },
@@ -28200,26 +28252,6 @@
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Bury",
-          "visita": "Avro"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "FC United",
-          "visita": "Whitby Town"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Gainsborough",
-          "visita": "Curzon"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Guiseley",
-          "visita": "Leek Town"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Hyde Utd",
           "visita": "Stockton Town"
         },
@@ -28247,6 +28279,26 @@
           "fechaISO": "2026-10-06T19:45:00.000Z",
           "local": "AFC Emley",
           "visita": "Bamber Bridge"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Alfreton Town",
+          "visita": "FC United"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Cleethorpes",
+          "visita": "Hyde Utd"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Curzon",
+          "visita": "Redcar Athletic"
+        },
+        {
+          "fechaISO": "2026-10-06T19:45:00.000Z",
+          "local": "Ilkeston Town",
+          "visita": "Guiseley"
         }
       ]
     },
@@ -28896,11 +28948,6 @@
       "partidos": [
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Anstey Nomads",
-          "visita": "Real Bedford"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Bury Town",
           "visita": "Kettering Town"
         },
@@ -28913,16 +28960,6 @@
           "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Leighton Town",
           "visita": "Peterborough S."
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Leiston",
-          "visita": "Halesowen Town"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Redditch Utd",
-          "visita": "Banbury Utd"
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
@@ -28945,14 +28982,29 @@
           "visita": "Alvechurch"
         },
         {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Worcester City",
-          "visita": "B. Stortford"
-        },
-        {
           "fechaISO": "2026-10-10T15:00:00.000Z",
           "local": "Alvechurch",
           "visita": "Bury Town"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Banbury Utd",
+          "visita": "Stamford"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Hitchin Town",
+          "visita": "Peterborough S."
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Kettering Town",
+          "visita": "Halesowen Town"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Needham Market",
+          "visita": "Anstey Nomads"
         }
       ]
     },
@@ -29124,21 +29176,21 @@
         },
         "frometown": {
           "nombreOriginal": "Frome Town",
-          "gp": 8,
+          "gp": 9,
           "w": 4,
-          "d": 1,
+          "d": 2,
           "l": 3,
-          "gf": 12,
-          "ga": 8,
-          "pts": 13,
+          "gf": 14,
+          "ga": 10,
+          "pts": 14,
           "ppg": null,
-          "wh": 1.63,
+          "wh": 1.56,
           "dh": null,
           "lh": 2,
-          "gfh": 1,
+          "gfh": 2,
           "gah": 1,
-          "ppgh": 6,
-          "ppga": 4,
+          "ppgh": 8,
+          "ppga": 6,
           "wa": null,
           "da": null,
           "la": null,
@@ -29148,6 +29200,33 @@
           "over25": 50,
           "over35": 25,
           "btts": 25
+        },
+        "tauntontown": {
+          "nombreOriginal": "Taunton Town",
+          "gp": 9,
+          "w": 4,
+          "d": 1,
+          "l": 4,
+          "gf": 23,
+          "ga": 22,
+          "pts": 13,
+          "ppg": null,
+          "wh": 1.44,
+          "dh": null,
+          "lh": 3,
+          "gfh": 0,
+          "gah": 1,
+          "ppgh": 12,
+          "ppga": 9,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 1,
+          "over15": 100,
+          "over25": 80,
+          "over35": 80,
+          "btts": 80
         },
         "eveshamutd": {
           "nombreOriginal": "Evesham Utd",
@@ -29257,50 +29336,23 @@
           "over35": 0,
           "btts": 0
         },
-        "tauntontown": {
-          "nombreOriginal": "Taunton Town",
-          "gp": 8,
-          "w": 4,
-          "d": 0,
-          "l": 4,
-          "gf": 21,
-          "ga": 20,
-          "pts": 12,
-          "ppg": null,
-          "wh": 1.5,
-          "dh": null,
-          "lh": 3,
-          "gfh": 0,
-          "gah": 1,
-          "ppgh": 12,
-          "ppga": 9,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 1,
-          "over15": 100,
-          "over25": 75,
-          "over35": 75,
-          "btts": 75
-        },
         "gosportborough": {
           "nombreOriginal": "Gosport Borough",
-          "gp": 8,
+          "gp": 9,
           "w": 3,
-          "d": 2,
+          "d": 3,
           "l": 3,
-          "gf": 11,
-          "ga": 9,
-          "pts": 11,
+          "gf": 12,
+          "ga": 10,
+          "pts": 12,
           "ppg": null,
-          "wh": 1.38,
+          "wh": 1.33,
           "dh": null,
           "lh": 2,
-          "gfh": 1,
+          "gfh": 2,
           "gah": 1,
-          "ppgh": 8,
-          "ppga": 5,
+          "ppgh": 9,
+          "ppga": 6,
           "wa": null,
           "da": null,
           "la": null,
@@ -29338,6 +29390,33 @@
           "over35": 40,
           "btts": 80
         },
+        "bracknelltown": {
+          "nombreOriginal": "Bracknell Town",
+          "gp": 9,
+          "w": 3,
+          "d": 2,
+          "l": 4,
+          "gf": 11,
+          "ga": 18,
+          "pts": 11,
+          "ppg": null,
+          "wh": 1.22,
+          "dh": null,
+          "lh": 3,
+          "gfh": 1,
+          "gah": 0,
+          "ppgh": 8,
+          "ppga": 4,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 0,
+          "over15": 100,
+          "over25": 60,
+          "over35": 20,
+          "btts": 60
+        },
         "sholing": {
           "nombreOriginal": "Sholing",
           "gp": 8,
@@ -29364,33 +29443,6 @@
           "over25": 33,
           "over35": 33,
           "btts": 33
-        },
-        "bracknelltown": {
-          "nombreOriginal": "Bracknell Town",
-          "gp": 8,
-          "w": 3,
-          "d": 1,
-          "l": 4,
-          "gf": 10,
-          "ga": 17,
-          "pts": 10,
-          "ppg": null,
-          "wh": 1.25,
-          "dh": null,
-          "lh": 3,
-          "gfh": 1,
-          "gah": 0,
-          "ppgh": 8,
-          "ppga": 4,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 0,
-          "over15": 100,
-          "over25": 75,
-          "over35": 25,
-          "btts": 50
         },
         "basingstoket": {
           "nombreOriginal": "Basingstoke T.",
@@ -29557,64 +29609,64 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-30T19:45:00.000Z",
-          "local": "Frome Town",
-          "visita": "Taunton Town"
-        },
-        {
-          "fechaISO": "2026-09-30T19:45:00.000Z",
-          "local": "Gosport Borough",
-          "visita": "Bracknell Town"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Basingstoke T.",
-          "visita": "Sholing"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Berkhamsted",
-          "visita": "Gosport Borough"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Bracknell Town",
-          "visita": "Chertsey Town"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Chichester City",
-          "visita": "Gloucester City"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Chippenham",
-          "visita": "Havant e W."
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Hanwell Town",
-          "visita": "Bath City"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "Malvern Town",
-          "visita": "Hanworth Villa"
-        },
-        {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
-          "local": "P. Parkway",
-          "visita": "Uxbridge"
-        },
-        {
           "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Poole Town",
           "visita": "Evesham Utd"
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
+          "local": "Yate Town",
+          "visita": "Frome Town"
+        },
+        {
+          "fechaISO": "2026-10-07T19:45:00.000Z",
+          "local": "Gosport Borough",
+          "visita": "Poole Town"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Basingstoke T.",
+          "visita": "Malvern Town"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Bath City",
+          "visita": "Gosport Borough"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Chertsey Town",
+          "visita": "Chippenham"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Chichester City",
+          "visita": "P. Parkway"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Frome Town",
+          "visita": "Sholing"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Hanworth Villa",
+          "visita": "Gloucester City"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Poole Town",
+          "visita": "Bracknell Town"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
           "local": "Taunton Town",
-          "visita": "Wimborne"
+          "visita": "Hanwell Town"
+        },
+        {
+          "fechaISO": "2026-10-10T15:00:00.000Z",
+          "local": "Uxbridge",
+          "visita": "Evesham Utd"
         }
       ]
     },
@@ -31366,11 +31418,6 @@
           "fechaISO": "2026-10-14T16:00:00.000Z",
           "local": "Paide",
           "visita": "Tammeka"
-        },
-        {
-          "fechaISO": "2026-10-14T17:00:00.000Z",
-          "local": "Flora",
-          "visita": "Levadia"
         }
       ]
     },
@@ -35600,11 +35647,6 @@
           "visita": "Dinamo Tbilisi"
         },
         {
-          "fechaISO": "2026-10-09T16:00:00.000Z",
-          "local": "Spaeri",
-          "visita": "Torpedo Kutaisi"
-        },
-        {
           "fechaISO": "2026-10-10T12:30:00.000Z",
           "local": "Meshakhte",
           "visita": "Iberia"
@@ -35615,14 +35657,29 @@
           "visita": "Dila Gori"
         },
         {
+          "fechaISO": "2026-10-10T17:00:00.000Z",
+          "local": "Spaeri",
+          "visita": "Torpedo Kutaisi"
+        },
+        {
           "fechaISO": "2026-10-11T12:30:00.000Z",
           "local": "Samgurali",
           "visita": "Gagra"
         },
         {
-          "fechaISO": "2026-10-11T15:00:00.000Z",
+          "fechaISO": "2026-10-11T16:00:00.000Z",
           "local": "Dinamo Batumi",
           "visita": "Dinamo Tbilisi"
+        },
+        {
+          "fechaISO": "2026-10-17T12:30:00.000Z",
+          "local": "Samgurali",
+          "visita": "Meshakhte"
+        },
+        {
+          "fechaISO": "2026-10-17T16:00:00.000Z",
+          "local": "Gagra",
+          "visita": "Dinamo Batumi"
         }
       ]
     },
@@ -37953,11 +38010,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-02T18:00:00.000Z",
-          "local": "Kickers Emden",
-          "visita": "Todesfelde"
-        },
-        {
           "fechaISO": "2026-10-02T18:30:00.000Z",
           "local": "VfB Lubeck",
           "visita": "Eimsbutteler"
@@ -37979,8 +38031,18 @@
         },
         {
           "fechaISO": "2026-10-03T14:00:00.000Z",
+          "local": "Delmenhorst",
+          "visita": "St. Pauli B"
+        },
+        {
+          "fechaISO": "2026-10-03T14:00:00.000Z",
           "local": "Hannover 96 B",
           "visita": "Phonix Lubeck"
+        },
+        {
+          "fechaISO": "2026-10-03T17:00:00.000Z",
+          "local": "Kickers Emden",
+          "visita": "Todesfelde"
         },
         {
           "fechaISO": "2026-10-04T13:00:00.000Z",
@@ -38523,34 +38585,29 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-11T13:00:00.000Z",
+          "fechaISO": "2026-10-09T18:00:00.000Z",
           "local": "Altglienicke",
           "visita": "BFC Dynamo"
         },
         {
-          "fechaISO": "2026-10-11T13:00:00.000Z",
-          "local": "Babelsberg",
-          "visita": "Lok. Leipzig"
-        },
-        {
-          "fechaISO": "2026-10-11T13:00:00.000Z",
-          "local": "BFC Preussen",
-          "visita": "Hertha Berlin B"
-        },
-        {
-          "fechaISO": "2026-10-11T13:00:00.000Z",
-          "local": "Carl Zeiss Jena",
-          "visita": "Magdeburg B"
-        },
-        {
-          "fechaISO": "2026-10-11T13:00:00.000Z",
+          "fechaISO": "2026-10-09T18:00:00.000Z",
           "local": "Chemie Leipzig",
           "visita": "Luckenwalde"
         },
         {
-          "fechaISO": "2026-10-11T13:00:00.000Z",
-          "local": "Chemnitzer FC",
-          "visita": "RW Erfurt"
+          "fechaISO": "2026-10-09T18:00:00.000Z",
+          "local": "Zwickau",
+          "visita": "Tasmania Berlin"
+        },
+        {
+          "fechaISO": "2026-10-10T13:00:00.000Z",
+          "local": "BFC Preussen",
+          "visita": "Hertha Berlin B"
+        },
+        {
+          "fechaISO": "2026-10-10T13:00:00.000Z",
+          "local": "Carl Zeiss Jena",
+          "visita": "Magdeburg B"
         },
         {
           "fechaISO": "2026-10-11T13:00:00.000Z",
@@ -38563,14 +38620,19 @@
           "visita": "RSV Eintracht"
         },
         {
-          "fechaISO": "2026-10-11T13:00:00.000Z",
-          "local": "Zwickau",
-          "visita": "Tasmania Berlin"
+          "fechaISO": "2026-10-11T15:00:00.000Z",
+          "local": "Babelsberg",
+          "visita": "Lok. Leipzig"
         },
         {
-          "fechaISO": "2026-10-18T13:00:00.000Z",
-          "local": "BFC Dynamo",
-          "visita": "Chemnitzer FC"
+          "fechaISO": "2026-10-11T15:00:00.000Z",
+          "local": "Chemnitzer FC",
+          "visita": "RW Erfurt"
+        },
+        {
+          "fechaISO": "2026-10-16T18:00:00.000Z",
+          "local": "Hertha Berlin B",
+          "visita": "RSV Eintracht"
         }
       ]
     },
@@ -38725,6 +38787,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
+        "ssiegen": {
+          "nombreOriginal": "S. Siegen",
+          "gp": 10,
+          "w": 4,
+          "d": 4,
+          "l": 2,
+          "gf": 18,
+          "ga": 15,
+          "pts": 16,
+          "ppg": null,
+          "wh": 1.6,
+          "dh": null,
+          "lh": 1,
+          "gfh": 4,
+          "gah": 0,
+          "ppgh": 8,
+          "ppga": 7,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 3,
+          "over15": 100,
+          "over25": 80,
+          "over35": 60,
+          "btts": 80,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 2
+        },
         "bergischg": {
           "nombreOriginal": "Bergisch G.",
           "gp": 10,
@@ -38839,35 +38930,6 @@
           "over35": 60,
           "btts": 80,
           "htGolesFavorAprox": 1,
-          "htGolesContraAprox": 1
-        },
-        "ssiegen": {
-          "nombreOriginal": "S. Siegen",
-          "gp": 9,
-          "w": 3,
-          "d": 4,
-          "l": 2,
-          "gf": 15,
-          "ga": 14,
-          "pts": 13,
-          "ppg": null,
-          "wh": 1.44,
-          "dh": null,
-          "lh": 1,
-          "gfh": 4,
-          "gah": 0,
-          "ppgh": 8,
-          "ppga": 7,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 2,
-          "over15": 100,
-          "over25": 75,
-          "over35": 50,
-          "btts": 75,
-          "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
         "bocholt": {
@@ -39017,21 +39079,21 @@
         },
         "wiedenbruck": {
           "nombreOriginal": "Wiedenbruck",
-          "gp": 9,
+          "gp": 10,
           "w": 2,
           "d": 2,
-          "l": 5,
-          "gf": 12,
-          "ga": 20,
+          "l": 6,
+          "gf": 13,
+          "ga": 23,
           "pts": 8,
           "ppg": null,
-          "wh": 0.89,
+          "wh": 0.8,
           "dh": null,
           "lh": 1,
           "gfh": 1,
-          "gah": 2,
-          "ppgh": 4,
-          "ppga": 8,
+          "gah": 3,
+          "ppgh": 5,
+          "ppga": 11,
           "wa": null,
           "da": null,
           "la": null,
@@ -39105,16 +39167,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-30T18:30:00.000Z",
-          "local": "Wiedenbruck",
-          "visita": "S. Siegen"
-        },
-        {
-          "fechaISO": "2026-10-02T15:00:00.000Z",
-          "local": "Schalke 04 B",
-          "visita": "FC Koln B"
-        },
-        {
           "fechaISO": "2026-10-02T18:30:00.000Z",
           "local": "Bonner SC",
           "visita": "W. Rhynern"
@@ -39151,8 +39203,18 @@
         },
         {
           "fechaISO": "2026-10-04T13:00:00.000Z",
+          "local": "Oberhausen",
+          "visita": "Paderborn B"
+        },
+        {
+          "fechaISO": "2026-10-04T13:00:00.000Z",
           "local": "S. Siegen",
           "visita": "Dortmund B"
+        },
+        {
+          "fechaISO": "2026-10-10T13:00:00.000Z",
+          "local": "Bergisch G.",
+          "visita": "Schalke 04 B"
         }
       ]
     },
@@ -45072,6 +45134,11 @@
           "visita": "Zob Ahan"
         },
         {
+          "fechaISO": "2026-10-08T14:15:00.000Z",
+          "local": "Gol Gohar",
+          "visita": "E. Khuzestan"
+        },
+        {
           "fechaISO": "2026-10-08T14:30:00.000Z",
           "local": "Tractor Sazi",
           "visita": "Esteghlal"
@@ -45090,11 +45157,6 @@
           "fechaISO": "2026-10-09T14:15:00.000Z",
           "local": "Chadormalu",
           "visita": "K. Khorramabad"
-        },
-        {
-          "fechaISO": "2026-10-09T14:15:00.000Z",
-          "local": "Gol Gohar",
-          "visita": "E. Khuzestan"
         },
         {
           "fechaISO": "2026-10-09T14:30:00.000Z",
@@ -62880,21 +62942,21 @@
         },
         "cienciano": {
           "nombreOriginal": "Cienciano",
-          "gp": 9,
+          "gp": 10,
           "w": 2,
-          "d": 1,
+          "d": 2,
           "l": 6,
-          "gf": 11,
-          "ga": 17,
-          "pts": 7,
+          "gf": 12,
+          "ga": 18,
+          "pts": 8,
           "ppg": null,
-          "wh": 0.78,
+          "wh": 0.8,
           "dh": null,
           "lh": 1,
-          "gfh": 1,
+          "gfh": 2,
           "gah": 2,
-          "ppgh": 4,
-          "ppga": 5,
+          "ppgh": 5,
+          "ppga": 6,
           "wa": null,
           "da": null,
           "la": null,
@@ -62906,6 +62968,35 @@
           "btts": 40,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
+        },
+        "loschankas": {
+          "nombreOriginal": "Los Chankas",
+          "gp": 10,
+          "w": 2,
+          "d": 2,
+          "l": 6,
+          "gf": 11,
+          "ga": 24,
+          "pts": 8,
+          "ppg": null,
+          "wh": 0.8,
+          "dh": null,
+          "lh": 2,
+          "gfh": 0,
+          "gah": 3,
+          "ppgh": 8,
+          "ppga": 11,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 0,
+          "over15": 20,
+          "over25": 0,
+          "over35": 0,
+          "btts": 0,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 0
         },
         "ucvmoquegua": {
           "nombreOriginal": "UCV Moquegua",
@@ -62935,35 +63026,6 @@
           "btts": 0,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
-        },
-        "loschankas": {
-          "nombreOriginal": "Los Chankas",
-          "gp": 9,
-          "w": 2,
-          "d": 1,
-          "l": 6,
-          "gf": 10,
-          "ga": 23,
-          "pts": 7,
-          "ppg": null,
-          "wh": 0.78,
-          "dh": null,
-          "lh": 2,
-          "gfh": 0,
-          "gah": 3,
-          "ppgh": 8,
-          "ppga": 11,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 0,
-          "over15": 25,
-          "over25": 0,
-          "over35": 0,
-          "btts": 0,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 0
         },
         "adt": {
           "nombreOriginal": "ADT",
@@ -63026,11 +63088,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-09-30T21:00:00.000Z",
-          "local": "Cienciano",
-          "visita": "Los Chankas"
-        },
-        {
           "fechaISO": "2026-10-08T19:00:00.000Z",
           "local": "UCV Moquegua",
           "visita": "Cienciano"
@@ -63074,6 +63131,11 @@
           "fechaISO": "2026-10-12T00:30:00.000Z",
           "local": "Cusco",
           "visita": "Alianza Lima"
+        },
+        {
+          "fechaISO": "2026-10-16T19:00:00.000Z",
+          "local": "Sport Huancayo",
+          "visita": "Cusco"
         }
       ]
     },
@@ -76771,7 +76833,7 @@
           "visita": "Assyriska"
         },
         {
-          "fechaISO": "2026-10-03T15:00:00.000Z",
+          "fechaISO": "2026-10-03T14:00:00.000Z",
           "local": "FBK Karlstad",
           "visita": "AFC Eskilstuna"
         },
@@ -82172,21 +82234,21 @@
       "equipos": {
         "montevideocity": {
           "nombreOriginal": "Montevideo City",
-          "gp": 7,
+          "gp": 8,
           "w": 6,
-          "d": 0,
+          "d": 1,
           "l": 1,
-          "gf": 18,
-          "ga": 7,
-          "pts": 18,
+          "gf": 19,
+          "ga": 8,
+          "pts": 19,
           "ppg": null,
-          "wh": 2.57,
+          "wh": 2.38,
           "dh": null,
           "lh": 3,
-          "gfh": 0,
+          "gfh": 1,
           "gah": 1,
-          "ppgh": 10,
-          "ppga": 5,
+          "ppgh": 11,
+          "ppga": 6,
           "wa": null,
           "da": null,
           "la": null,
@@ -82230,15 +82292,15 @@
         },
         "penarol": {
           "nombreOriginal": "Penarol",
-          "gp": 7,
+          "gp": 8,
           "w": 5,
-          "d": 1,
+          "d": 2,
           "l": 1,
-          "gf": 13,
-          "ga": 5,
-          "pts": 16,
+          "gf": 14,
+          "ga": 6,
+          "pts": 17,
           "ppg": null,
-          "wh": 2.29,
+          "wh": 2.13,
           "dh": null,
           "lh": 3,
           "gfh": 0,
@@ -82250,10 +82312,10 @@
           "la": null,
           "gfa": null,
           "gaa": 2,
-          "over15": 33,
+          "over15": 50,
           "over25": 0,
           "over35": 0,
-          "btts": 33,
+          "btts": 50,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 1
         },
@@ -82639,11 +82701,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-01T00:00:00.000Z",
-          "local": "Montevideo City",
-          "visita": "Penarol"
-        },
-        {
           "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Liverpool M.",
           "visita": "Progreso"
@@ -82745,6 +82802,35 @@
           "over35": 9,
           "btts": 18,
           "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 5
+        },
+        "stlouiscity": {
+          "nombreOriginal": "St. Louis City",
+          "gp": 27,
+          "w": 13,
+          "d": 8,
+          "l": 6,
+          "gf": 48,
+          "ga": 36,
+          "pts": 47,
+          "ppg": null,
+          "wh": 1.74,
+          "dh": null,
+          "lh": 8,
+          "gfh": 3,
+          "gah": 2,
+          "ppgh": 28,
+          "ppga": 17,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 5,
+          "over15": 36,
+          "over25": 7,
+          "over35": 7,
+          "btts": 14,
+          "htGolesFavorAprox": 1,
           "htGolesContraAprox": 5
         },
         "dallas": {
@@ -82860,35 +82946,6 @@
           "over25": 15,
           "over35": 15,
           "btts": 46,
-          "htGolesFavorAprox": 1,
-          "htGolesContraAprox": 4
-        },
-        "stlouiscity": {
-          "nombreOriginal": "St. Louis City",
-          "gp": 26,
-          "w": 12,
-          "d": 8,
-          "l": 6,
-          "gf": 45,
-          "ga": 36,
-          "pts": 44,
-          "ppg": null,
-          "wh": 1.69,
-          "dh": null,
-          "lh": 8,
-          "gfh": 3,
-          "gah": 2,
-          "ppgh": 28,
-          "ppga": 17,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 4,
-          "over15": 38,
-          "over25": 8,
-          "over35": 8,
-          "btts": 15,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 4
         },
@@ -83213,21 +83270,21 @@
         },
         "newyorkrb": {
           "nombreOriginal": "New York RB",
-          "gp": 26,
+          "gp": 27,
           "w": 9,
           "d": 6,
-          "l": 11,
+          "l": 12,
           "gf": 34,
-          "ga": 48,
+          "ga": 51,
           "pts": 33,
           "ppg": null,
-          "wh": 1.27,
+          "wh": 1.22,
           "dh": null,
           "lh": 4,
           "gfh": 3,
-          "gah": 5,
+          "gah": 6,
           "ppgh": 18,
-          "ppga": 23,
+          "ppga": 26,
           "wa": null,
           "da": null,
           "la": null,
@@ -83704,17 +83761,75 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 3
         },
-        "newmexico": {
-          "nombreOriginal": "New Mexico",
-          "gp": 25,
+        "detroitcity": {
+          "nombreOriginal": "Detroit City",
+          "gp": 26,
           "w": 12,
-          "d": 7,
+          "d": 8,
           "l": 6,
-          "gf": 39,
-          "ga": 30,
+          "gf": 32,
+          "ga": 20,
+          "pts": 44,
+          "ppg": null,
+          "wh": 1.69,
+          "dh": null,
+          "lh": 8,
+          "gfh": 4,
+          "gah": 1,
+          "ppgh": 15,
+          "ppga": 5,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 4,
+          "over15": 23,
+          "over25": 8,
+          "over35": 8,
+          "btts": 15,
+          "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 1
+        },
+        "sacramentor": {
+          "nombreOriginal": "Sacramento R.",
+          "gp": 26,
+          "w": 11,
+          "d": 10,
+          "l": 5,
+          "gf": 36,
+          "ga": 24,
           "pts": 43,
           "ppg": null,
-          "wh": 1.72,
+          "wh": 1.65,
+          "dh": null,
+          "lh": 8,
+          "gfh": 3,
+          "gah": 2,
+          "ppgh": 23,
+          "ppga": 11,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 3,
+          "over15": 31,
+          "over25": 0,
+          "over35": 0,
+          "btts": 15,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
+        },
+        "newmexico": {
+          "nombreOriginal": "New Mexico",
+          "gp": 26,
+          "w": 12,
+          "d": 7,
+          "l": 7,
+          "gf": 39,
+          "ga": 31,
+          "pts": 43,
+          "ppg": null,
+          "wh": 1.65,
           "dh": null,
           "lh": 7,
           "gfh": 3,
@@ -83726,41 +83841,41 @@
           "la": null,
           "gfa": null,
           "gaa": 5,
-          "over15": 33,
+          "over15": 31,
           "over25": 8,
           "over35": 0,
-          "btts": 25,
+          "btts": 23,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 2
         },
-        "detroitcity": {
-          "nombreOriginal": "Detroit City",
-          "gp": 25,
+        "fctulsa": {
+          "nombreOriginal": "FC Tulsa",
+          "gp": 26,
           "w": 11,
           "d": 8,
-          "l": 6,
-          "gf": 29,
-          "ga": 19,
+          "l": 7,
+          "gf": 31,
+          "ga": 24,
           "pts": 41,
           "ppg": null,
-          "wh": 1.64,
+          "wh": 1.58,
           "dh": null,
-          "lh": 8,
-          "gfh": 4,
-          "gah": 1,
-          "ppgh": 15,
-          "ppga": 5,
+          "lh": 7,
+          "gfh": 3,
+          "gah": 3,
+          "ppgh": 13,
+          "ppga": 7,
           "wa": null,
           "da": null,
           "la": null,
           "gfa": null,
-          "gaa": 3,
-          "over15": 25,
+          "gaa": 4,
+          "over15": 31,
           "over25": 8,
           "over35": 8,
-          "btts": 17,
+          "btts": 15,
           "htGolesFavorAprox": 1,
-          "htGolesContraAprox": 1
+          "htGolesContraAprox": 3
         },
         "lexington": {
           "nombreOriginal": "Lexington",
@@ -83790,35 +83905,6 @@
           "btts": 15,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 3
-        },
-        "sacramentor": {
-          "nombreOriginal": "Sacramento R.",
-          "gp": 25,
-          "w": 10,
-          "d": 10,
-          "l": 5,
-          "gf": 33,
-          "ga": 22,
-          "pts": 40,
-          "ppg": null,
-          "wh": 1.6,
-          "dh": null,
-          "lh": 7,
-          "gfh": 3,
-          "gah": 2,
-          "ppgh": 20,
-          "ppga": 9,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 3,
-          "over15": 31,
-          "over25": 0,
-          "over35": 0,
-          "btts": 15,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 1
         },
         "colorados": {
           "nombreOriginal": "Colorado S.",
@@ -83907,35 +83993,6 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 0
         },
-        "fctulsa": {
-          "nombreOriginal": "FC Tulsa",
-          "gp": 25,
-          "w": 10,
-          "d": 8,
-          "l": 7,
-          "gf": 30,
-          "ga": 24,
-          "pts": 38,
-          "ppg": null,
-          "wh": 1.52,
-          "dh": null,
-          "lh": 6,
-          "gfh": 3,
-          "gah": 3,
-          "ppgh": 12,
-          "ppga": 7,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 4,
-          "over15": 31,
-          "over25": 8,
-          "over35": 8,
-          "btts": 15,
-          "htGolesFavorAprox": 1,
-          "htGolesContraAprox": 3
-        },
         "sanantonio": {
           "nombreOriginal": "San Antonio",
           "gp": 26,
@@ -84023,17 +84080,46 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 1
         },
+        "rhodeisland": {
+          "nombreOriginal": "Rhode Island",
+          "gp": 25,
+          "w": 10,
+          "d": 5,
+          "l": 10,
+          "gf": 36,
+          "ga": 28,
+          "pts": 35,
+          "ppg": null,
+          "wh": 1.4,
+          "dh": null,
+          "lh": 6,
+          "gfh": 5,
+          "gah": 2,
+          "ppgh": 21,
+          "ppga": 11,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 4,
+          "over15": 25,
+          "over25": 8,
+          "over35": 0,
+          "btts": 17,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 3
+        },
         "indyeleven": {
           "nombreOriginal": "Indy Eleven",
-          "gp": 25,
+          "gp": 26,
           "w": 9,
           "d": 6,
-          "l": 10,
+          "l": 11,
           "gf": 32,
-          "ga": 31,
+          "ga": 32,
           "pts": 33,
           "ppg": null,
-          "wh": 1.32,
+          "wh": 1.27,
           "dh": null,
           "lh": 8,
           "gfh": 3,
@@ -84045,10 +84131,10 @@
           "la": null,
           "gfa": null,
           "gaa": 1,
-          "over15": 18,
-          "over25": 9,
+          "over15": 17,
+          "over25": 8,
           "over35": 0,
-          "btts": 9,
+          "btts": 8,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         },
@@ -84112,15 +84198,15 @@
         },
         "lasvegasl": {
           "nombreOriginal": "Las Vegas L.",
-          "gp": 25,
+          "gp": 26,
           "w": 9,
           "d": 6,
-          "l": 10,
-          "gf": 32,
-          "ga": 35,
+          "l": 11,
+          "gf": 34,
+          "ga": 38,
           "pts": 33,
           "ppg": null,
-          "wh": 1.32,
+          "wh": 1.27,
           "dh": null,
           "lh": 4,
           "gfh": 5,
@@ -84132,59 +84218,30 @@
           "la": null,
           "gfa": null,
           "gaa": 5,
-          "over15": 33,
+          "over15": 38,
           "over25": 8,
           "over35": 0,
-          "btts": 25,
+          "btts": 31,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 4
         },
-        "rhodeisland": {
-          "nombreOriginal": "Rhode Island",
-          "gp": 24,
-          "w": 9,
-          "d": 5,
-          "l": 10,
-          "gf": 35,
-          "ga": 28,
-          "pts": 32,
-          "ppg": null,
-          "wh": 1.33,
-          "dh": null,
-          "lh": 5,
-          "gfh": 5,
-          "gah": 2,
-          "ppgh": 20,
-          "ppga": 11,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 4,
-          "over15": 25,
-          "over25": 8,
-          "over35": 0,
-          "btts": 17,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 3
-        },
         "miamifc": {
           "nombreOriginal": "Miami FC",
-          "gp": 26,
-          "w": 7,
+          "gp": 27,
+          "w": 8,
           "d": 9,
           "l": 10,
-          "gf": 32,
-          "ga": 43,
-          "pts": 30,
+          "gf": 36,
+          "ga": 44,
+          "pts": 33,
           "ppg": null,
-          "wh": 1.15,
+          "wh": 1.22,
           "dh": null,
-          "lh": 4,
+          "lh": 5,
           "gfh": 4,
           "gah": 4,
-          "ppgh": 20,
-          "ppga": 22,
+          "ppgh": 24,
+          "ppga": 23,
           "wa": null,
           "da": null,
           "la": null,
@@ -84286,21 +84343,21 @@
         },
         "brooklynfc": {
           "nombreOriginal": "Brooklyn FC",
-          "gp": 25,
+          "gp": 26,
           "w": 4,
           "d": 6,
-          "l": 15,
-          "gf": 25,
-          "ga": 49,
+          "l": 16,
+          "gf": 26,
+          "ga": 52,
           "pts": 18,
           "ppg": null,
-          "wh": 0.72,
+          "wh": 0.69,
           "dh": null,
           "lh": 3,
           "gfh": 3,
-          "gah": 6,
-          "ppgh": 13,
-          "ppga": 13,
+          "gah": 7,
+          "ppgh": 14,
+          "ppga": 16,
           "wa": null,
           "da": null,
           "la": null,
@@ -84315,15 +84372,15 @@
         },
         "sportingjax": {
           "nombreOriginal": "Sporting JAX",
-          "gp": 26,
+          "gp": 27,
           "w": 3,
           "d": 5,
-          "l": 18,
-          "gf": 31,
-          "ga": 69,
+          "l": 19,
+          "gf": 32,
+          "ga": 73,
           "pts": 14,
           "ppg": null,
-          "wh": 0.54,
+          "wh": 0.52,
           "dh": null,
           "lh": 2,
           "gfh": 3,
@@ -84335,40 +84392,15 @@
           "la": null,
           "gfa": null,
           "gaa": 1,
-          "over15": 31,
-          "over25": 23,
-          "over35": 8,
-          "btts": 0,
+          "over15": 36,
+          "over25": 29,
+          "over35": 7,
+          "btts": 7,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 0
         }
       },
       "partidos": [
-        {
-          "fechaISO": "2026-10-01T00:00:00.000Z",
-          "local": "Brooklyn FC",
-          "visita": "Detroit City"
-        },
-        {
-          "fechaISO": "2026-10-01T00:00:00.000Z",
-          "local": "Miami FC",
-          "visita": "Sporting JAX"
-        },
-        {
-          "fechaISO": "2026-10-01T00:30:00.000Z",
-          "local": "Rhode Island",
-          "visita": "Indy Eleven"
-        },
-        {
-          "fechaISO": "2026-10-01T01:00:00.000Z",
-          "local": "FC Tulsa",
-          "visita": "New Mexico"
-        },
-        {
-          "fechaISO": "2026-10-01T03:00:00.000Z",
-          "local": "Sacramento R.",
-          "visita": "Las Vegas L."
-        },
         {
           "fechaISO": "2026-10-03T23:00:00.000Z",
           "local": "Loudoun Utd",
@@ -84393,6 +84425,31 @@
           "fechaISO": "2026-10-04T00:30:00.000Z",
           "local": "Tampa Bay",
           "visita": "Miami FC"
+        },
+        {
+          "fechaISO": "2026-10-04T01:00:00.000Z",
+          "local": "FC Tulsa",
+          "visita": "Sacramento R."
+        },
+        {
+          "fechaISO": "2026-10-04T02:00:00.000Z",
+          "local": "Colorado S.",
+          "visita": "Oakland Roots"
+        },
+        {
+          "fechaISO": "2026-10-04T03:00:00.000Z",
+          "local": "Orange County",
+          "visita": "Monterey Bay"
+        },
+        {
+          "fechaISO": "2026-10-04T03:30:00.000Z",
+          "local": "Las Vegas L.",
+          "visita": "San Antonio"
+        },
+        {
+          "fechaISO": "2026-10-04T23:00:00.000Z",
+          "local": "New Mexico",
+          "visita": "Phoenix Rising"
         }
       ]
     },
@@ -84545,46 +84602,17 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 2
         },
-        "chattanoogarw": {
-          "nombreOriginal": "Chattanooga RW",
-          "gp": 27,
-          "w": 13,
-          "d": 4,
-          "l": 10,
-          "gf": 47,
-          "ga": 39,
-          "pts": 43,
-          "ppg": null,
-          "wh": 1.59,
-          "dh": null,
-          "lh": 8,
-          "gfh": 2,
-          "gah": 4,
-          "ppgh": 27,
-          "ppga": 16,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 5,
-          "over15": 85,
-          "over25": 69,
-          "over35": 31,
-          "btts": 77,
-          "htGolesFavorAprox": 2,
-          "htGolesContraAprox": 2
-        },
         "spokanev": {
           "nombreOriginal": "Spokane V.",
-          "gp": 25,
-          "w": 13,
+          "gp": 26,
+          "w": 14,
           "d": 4,
           "l": 8,
-          "gf": 37,
+          "gf": 38,
           "ga": 33,
-          "pts": 43,
+          "pts": 46,
           "ppg": null,
-          "wh": 1.72,
+          "wh": 1.77,
           "dh": null,
           "lh": 10,
           "gfh": 1,
@@ -84595,12 +84623,41 @@
           "da": null,
           "la": null,
           "gfa": null,
-          "gaa": 3,
-          "over15": 73,
-          "over25": 45,
-          "over35": 27,
-          "btts": 45,
+          "gaa": 4,
+          "over15": 67,
+          "over25": 42,
+          "over35": 25,
+          "btts": 42,
           "htGolesFavorAprox": 1,
+          "htGolesContraAprox": 2
+        },
+        "chattanoogarw": {
+          "nombreOriginal": "Chattanooga RW",
+          "gp": 28,
+          "w": 13,
+          "d": 4,
+          "l": 11,
+          "gf": 47,
+          "ga": 40,
+          "pts": 43,
+          "ppg": null,
+          "wh": 1.54,
+          "dh": null,
+          "lh": 8,
+          "gfh": 2,
+          "gah": 5,
+          "ppgh": 27,
+          "ppga": 17,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 5,
+          "over15": 85,
+          "over25": 69,
+          "over35": 31,
+          "btts": 77,
+          "htGolesFavorAprox": 2,
           "htGolesContraAprox": 2
         },
         "fortwayne": {
@@ -86565,39 +86622,39 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-11T01:00:00.000Z",
-          "local": "A. Anzoategui",
-          "visita": "Carabobo"
-        },
-        {
-          "fechaISO": "2026-10-11T01:00:00.000Z",
-          "local": "Caracas",
-          "visita": "Zamora"
-        },
-        {
-          "fechaISO": "2026-10-11T01:00:00.000Z",
-          "local": "D. Tachira",
-          "visita": "UCV"
-        },
-        {
-          "fechaISO": "2026-10-11T01:00:00.000Z",
-          "local": "Metropolitanos",
-          "visita": "Rayo Zuliano"
-        },
-        {
-          "fechaISO": "2026-10-11T01:00:00.000Z",
-          "local": "Monagas",
-          "visita": "E. Merida"
-        },
-        {
-          "fechaISO": "2026-10-11T01:00:00.000Z",
+          "fechaISO": "2026-10-10T22:00:00.000Z",
           "local": "Portuguesa",
           "visita": "D. La Guaira"
         },
         {
-          "fechaISO": "2026-10-11T01:00:00.000Z",
+          "fechaISO": "2026-10-10T23:00:00.000Z",
+          "local": "D. Tachira",
+          "visita": "UCV"
+        },
+        {
+          "fechaISO": "2026-10-11T00:30:00.000Z",
+          "local": "Metropolitanos",
+          "visita": "Rayo Zuliano"
+        },
+        {
+          "fechaISO": "2026-10-11T21:00:00.000Z",
+          "local": "A. Anzoategui",
+          "visita": "Carabobo"
+        },
+        {
+          "fechaISO": "2026-10-11T21:00:00.000Z",
           "local": "Trujillanos",
           "visita": "Puerto Cabello"
+        },
+        {
+          "fechaISO": "2026-10-11T22:30:00.000Z",
+          "local": "Caracas",
+          "visita": "Zamora"
+        },
+        {
+          "fechaISO": "2026-10-11T23:00:00.000Z",
+          "local": "Monagas",
+          "visita": "E. Merida"
         },
         {
           "fechaISO": "2026-10-18T01:00:00.000Z",

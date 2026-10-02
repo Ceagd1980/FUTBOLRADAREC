@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-01T13:28:56.695Z",
+  "generadoEn": "2026-10-02T13:53:05.569Z",
   "ligas": {
     "albania": {
       "nombre": "Albania - Abissnet Superiore",
@@ -7915,8 +7915,8 @@
         },
         {
           "fechaISO": "2026-10-16T01:00:00.000Z",
-          "local": "Shamakhi",
-          "visita": "Safa"
+          "local": "Sumqayit",
+          "visita": "Araz"
         }
       ]
     },
@@ -10529,6 +10529,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 2
         },
+        "novorizontino": {
+          "nombreOriginal": "Novorizontino",
+          "gp": 31,
+          "w": 15,
+          "d": 9,
+          "l": 7,
+          "gf": 52,
+          "ga": 27,
+          "pts": 54,
+          "ppg": null,
+          "wh": 1.74,
+          "dh": null,
+          "lh": 9,
+          "gfh": 4,
+          "gah": 3,
+          "ppgh": 26,
+          "ppga": 14,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 6,
+          "over15": 27,
+          "over25": 7,
+          "over35": 7,
+          "btts": 27,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 4
+        },
         "juventude": {
           "nombreOriginal": "Juventude",
           "gp": 30,
@@ -10584,35 +10613,6 @@
           "over25": 7,
           "over35": 0,
           "btts": 0,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 4
-        },
-        "novorizontino": {
-          "nombreOriginal": "Novorizontino",
-          "gp": 30,
-          "w": 14,
-          "d": 9,
-          "l": 7,
-          "gf": 49,
-          "ga": 27,
-          "pts": 51,
-          "ppg": null,
-          "wh": 1.7,
-          "dh": null,
-          "lh": 8,
-          "gfh": 4,
-          "gah": 3,
-          "ppgh": 23,
-          "ppga": 14,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 6,
-          "over15": 27,
-          "over25": 7,
-          "over35": 7,
-          "btts": 27,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 4
         },
@@ -10734,15 +10734,15 @@
         },
         "sportrecife": {
           "nombreOriginal": "Sport Recife",
-          "gp": 30,
-          "w": 11,
+          "gp": 31,
+          "w": 12,
           "d": 11,
           "l": 8,
-          "gf": 40,
-          "ga": 32,
-          "pts": 44,
+          "gf": 42,
+          "ga": 33,
+          "pts": 47,
           "ppg": null,
-          "wh": 1.47,
+          "wh": 1.52,
           "dh": null,
           "lh": 7,
           "gfh": 7,
@@ -10753,13 +10753,13 @@
           "da": null,
           "la": null,
           "gfa": null,
-          "gaa": 4,
-          "over15": 7,
-          "over25": 7,
+          "gaa": 5,
+          "over15": 12,
+          "over25": 12,
           "over35": 0,
-          "btts": 7,
+          "btts": 12,
           "htGolesFavorAprox": 1,
-          "htGolesContraAprox": 2
+          "htGolesContraAprox": 3
         },
         "cuiaba": {
           "nombreOriginal": "Cuiaba",
@@ -10792,15 +10792,15 @@
         },
         "goias": {
           "nombreOriginal": "Goias",
-          "gp": 30,
+          "gp": 31,
           "w": 12,
           "d": 6,
-          "l": 12,
+          "l": 13,
           "gf": 30,
-          "ga": 36,
+          "ga": 39,
           "pts": 42,
           "ppg": null,
-          "wh": 1.4,
+          "wh": 1.35,
           "dh": null,
           "lh": 8,
           "gfh": 1,
@@ -10812,10 +10812,10 @@
           "la": null,
           "gfa": null,
           "gaa": 4,
-          "over15": 27,
-          "over25": 7,
+          "over15": 25,
+          "over25": 6,
           "over35": 0,
-          "btts": 20,
+          "btts": 19,
           "htGolesFavorAprox": 3,
           "htGolesContraAprox": 2
         },
@@ -10850,21 +10850,21 @@
         },
         "athleticclub": {
           "nombreOriginal": "Athletic Club",
-          "gp": 30,
+          "gp": 31,
           "w": 10,
           "d": 12,
-          "l": 8,
-          "gf": 36,
-          "ga": 33,
+          "l": 9,
+          "gf": 37,
+          "ga": 35,
           "pts": 42,
           "ppg": null,
-          "wh": 1.4,
+          "wh": 1.35,
           "dh": null,
           "lh": 6,
           "gfh": 5,
-          "gah": 4,
-          "ppgh": 18,
-          "ppga": 14,
+          "gah": 5,
+          "ppgh": 19,
+          "ppga": 16,
           "wa": null,
           "da": null,
           "la": null,
@@ -11083,16 +11083,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-02T00:30:00.000Z",
-          "local": "Athletic Club",
-          "visita": "Sport Recife"
-        },
-        {
-          "fechaISO": "2026-10-02T01:00:00.000Z",
-          "local": "Novorizontino",
-          "visita": "Goias"
-        },
-        {
           "fechaISO": "2026-10-02T23:30:00.000Z",
           "local": "Sao Bernardo",
           "visita": "CRB"
@@ -11131,6 +11121,16 @@
           "fechaISO": "2026-10-03T22:30:00.000Z",
           "local": "Botafogo SP",
           "visita": "Vila Nova"
+        },
+        {
+          "fechaISO": "2026-10-06T23:30:00.000Z",
+          "local": "Sport Recife",
+          "visita": "Sao Bernardo"
+        },
+        {
+          "fechaISO": "2026-10-07T00:30:00.000Z",
+          "local": "Goias",
+          "visita": "Athletic Club"
         }
       ]
     },
@@ -16840,11 +16840,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-02T02:00:00.000Z",
-          "local": "La Equidad",
-          "visita": "Once Caldas"
-        },
-        {
           "fechaISO": "2026-10-03T01:45:00.000Z",
           "local": "Deportivo Cali",
           "visita": "A. Petrolera"
@@ -16878,6 +16873,11 @@
           "fechaISO": "2026-10-05T02:15:00.000Z",
           "local": "Llaneros",
           "visita": "America de Cali"
+        },
+        {
+          "fechaISO": "2026-10-06T01:00:00.000Z",
+          "local": "I. Medelin",
+          "visita": "Santa Fe"
         }
       ]
     },
@@ -18275,11 +18275,6 @@
         },
         {
           "fechaISO": "2026-10-09T01:00:00.000Z",
-          "local": "Anorthosis",
-          "visita": "Paphos"
-        },
-        {
-          "fechaISO": "2026-10-09T01:00:00.000Z",
           "local": "Olympiakos N.",
           "visita": "Aris"
         },
@@ -18297,6 +18292,11 @@
           "fechaISO": "2026-10-10T17:00:00.000Z",
           "local": "APOEL Nicosia",
           "visita": "Nea Salamis"
+        },
+        {
+          "fechaISO": "2026-10-11T16:00:00.000Z",
+          "local": "Anorthosis",
+          "visita": "Paphos"
         },
         {
           "fechaISO": "2026-10-16T01:00:00.000Z",
@@ -28252,6 +28252,11 @@
         },
         {
           "fechaISO": "2026-10-03T15:00:00.000Z",
+          "local": "Gainsborough",
+          "visita": "Curzon"
+        },
+        {
+          "fechaISO": "2026-10-03T15:00:00.000Z",
           "local": "Hyde Utd",
           "visita": "Stockton Town"
         },
@@ -28294,11 +28299,6 @@
           "fechaISO": "2026-10-06T19:45:00.000Z",
           "local": "Curzon",
           "visita": "Redcar Athletic"
-        },
-        {
-          "fechaISO": "2026-10-06T19:45:00.000Z",
-          "local": "Ilkeston Town",
-          "visita": "Guiseley"
         }
       ]
     },
@@ -34600,6 +34600,35 @@
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
         },
+        "scbastia": {
+          "nombreOriginal": "SC Bastia",
+          "gp": 9,
+          "w": 3,
+          "d": 2,
+          "l": 4,
+          "gf": 7,
+          "ga": 11,
+          "pts": 11,
+          "ppg": null,
+          "wh": 1.22,
+          "dh": null,
+          "lh": 0,
+          "gfh": 2,
+          "gah": 3,
+          "ppgh": 4,
+          "ppga": 10,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 3,
+          "over15": 0,
+          "over25": 0,
+          "over35": 0,
+          "btts": 0,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 3
+        },
         "lepuy": {
           "nombreOriginal": "Le Puy",
           "gp": 8,
@@ -34658,35 +34687,6 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 0
         },
-        "scbastia": {
-          "nombreOriginal": "SC Bastia",
-          "gp": 8,
-          "w": 3,
-          "d": 1,
-          "l": 4,
-          "gf": 6,
-          "ga": 10,
-          "pts": 10,
-          "ppg": null,
-          "wh": 1.25,
-          "dh": null,
-          "lh": 0,
-          "gfh": 1,
-          "gah": 3,
-          "ppgh": 3,
-          "ppga": 9,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 3,
-          "over15": 0,
-          "over25": 0,
-          "over35": 0,
-          "btts": 0,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 3
-        },
         "fleurymerogis": {
           "nombreOriginal": "Fleury-Merogis",
           "gp": 8,
@@ -34716,6 +34716,35 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 0
         },
+        "orleans": {
+          "nombreOriginal": "Orleans",
+          "gp": 9,
+          "w": 2,
+          "d": 3,
+          "l": 4,
+          "gf": 7,
+          "ga": 11,
+          "pts": 9,
+          "ppg": null,
+          "wh": 1,
+          "dh": null,
+          "lh": 0,
+          "gfh": 1,
+          "gah": 3,
+          "ppgh": 1,
+          "ppga": 7,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 2,
+          "over15": 20,
+          "over25": 0,
+          "over35": 0,
+          "btts": 20,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
+        },
         "valenciennes": {
           "nombreOriginal": "Valenciennes",
           "gp": 8,
@@ -34744,35 +34773,6 @@
           "btts": 25,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 0
-        },
-        "orleans": {
-          "nombreOriginal": "Orleans",
-          "gp": 8,
-          "w": 2,
-          "d": 2,
-          "l": 4,
-          "gf": 6,
-          "ga": 10,
-          "pts": 8,
-          "ppg": null,
-          "wh": 1,
-          "dh": null,
-          "lh": 0,
-          "gfh": 1,
-          "gah": 3,
-          "ppgh": 1,
-          "ppga": 7,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 2,
-          "over15": 25,
-          "over25": 0,
-          "over35": 0,
-          "btts": 25,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 1
         },
         "aubagne": {
           "nombreOriginal": "Aubagne",
@@ -34864,11 +34864,6 @@
       },
       "partidos": [
         {
-          "fechaISO": "2026-10-01T19:45:00.000Z",
-          "local": "SC Bastia",
-          "visita": "Orleans"
-        },
-        {
           "fechaISO": "2026-10-03T19:45:00.000Z",
           "local": "Amiens",
           "visita": "Villefranche"
@@ -34912,6 +34907,11 @@
           "fechaISO": "2026-10-15T19:45:00.000Z",
           "local": "Caen",
           "visita": "La Roche"
+        },
+        {
+          "fechaISO": "2026-10-17T13:45:00.000Z",
+          "local": "Aubagne",
+          "visita": "Le Puy"
         }
       ]
     },
@@ -72698,6 +72698,11 @@
           "fechaISO": "2026-10-07T11:00:00.000Z",
           "local": "Seoul W",
           "visita": "Mungyeong W"
+        },
+        {
+          "fechaISO": "2026-10-15T11:00:00.000Z",
+          "local": "Hwacheon W",
+          "visita": "Sejong W"
         }
       ]
     },
@@ -80808,6 +80813,11 @@
           "fechaISO": "2026-10-18T16:45:00.000Z",
           "local": "Ajman",
           "visita": "Al Sharjah"
+        },
+        {
+          "fechaISO": "2026-10-29T15:10:00.000Z",
+          "local": "Al Ain",
+          "visita": "Ajman"
         }
       ]
     },
@@ -83094,6 +83104,35 @@
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 2
         },
+        "seattle": {
+          "nombreOriginal": "Seattle",
+          "gp": 27,
+          "w": 10,
+          "d": 8,
+          "l": 9,
+          "gf": 35,
+          "ga": 35,
+          "pts": 38,
+          "ppg": null,
+          "wh": 1.41,
+          "dh": null,
+          "lh": 7,
+          "gfh": 3,
+          "gah": 4,
+          "ppgh": 23,
+          "ppga": 20,
+          "wa": null,
+          "da": null,
+          "la": null,
+          "gfa": null,
+          "gaa": 3,
+          "over15": 23,
+          "over25": 0,
+          "over35": 0,
+          "btts": 23,
+          "htGolesFavorAprox": 0,
+          "htGolesContraAprox": 1
+        },
         "coloradorapids": {
           "nombreOriginal": "Colorado Rapids",
           "gp": 27,
@@ -83151,35 +83190,6 @@
           "btts": 29,
           "htGolesFavorAprox": 1,
           "htGolesContraAprox": 2
-        },
-        "seattle": {
-          "nombreOriginal": "Seattle",
-          "gp": 26,
-          "w": 9,
-          "d": 8,
-          "l": 9,
-          "gf": 33,
-          "ga": 34,
-          "pts": 35,
-          "ppg": null,
-          "wh": 1.35,
-          "dh": null,
-          "lh": 6,
-          "gfh": 3,
-          "gah": 4,
-          "ppgh": 21,
-          "ppga": 19,
-          "wa": null,
-          "da": null,
-          "la": null,
-          "gfa": null,
-          "gaa": 3,
-          "over15": 23,
-          "over25": 0,
-          "over35": 0,
-          "btts": 23,
-          "htGolesFavorAprox": 0,
-          "htGolesContraAprox": 1
         },
         "orlandocity": {
           "nombreOriginal": "Orlando City",
@@ -83589,15 +83599,15 @@
         },
         "sportingkc": {
           "nombreOriginal": "Sporting KC",
-          "gp": 26,
+          "gp": 27,
           "w": 6,
           "d": 3,
-          "l": 17,
-          "gf": 31,
-          "ga": 63,
+          "l": 18,
+          "gf": 32,
+          "ga": 65,
           "pts": 21,
           "ppg": null,
-          "wh": 0.81,
+          "wh": 0.78,
           "dh": null,
           "lh": 3,
           "gfh": 3,
@@ -83609,20 +83619,15 @@
           "la": null,
           "gfa": null,
           "gaa": 3,
-          "over15": 62,
-          "over25": 38,
-          "over35": 15,
-          "btts": 15,
+          "over15": 57,
+          "over25": 36,
+          "over35": 14,
+          "btts": 14,
           "htGolesFavorAprox": 0,
           "htGolesContraAprox": 2
         }
       },
       "partidos": [
-        {
-          "fechaISO": "2026-10-02T02:30:00.000Z",
-          "local": "Seattle",
-          "visita": "Sporting KC"
-        },
         {
           "fechaISO": "2026-10-07T01:30:00.000Z",
           "local": "Chicago Fire",
@@ -83667,6 +83672,11 @@
           "fechaISO": "2026-10-11T00:30:00.000Z",
           "local": "Orlando City",
           "visita": "Columbus Crew"
+        },
+        {
+          "fechaISO": "2026-10-11T00:30:00.000Z",
+          "local": "Philadelphia",
+          "visita": "Real Salt Lake"
         }
       ]
     },
